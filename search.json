@@ -1,108 +1,13 @@
 [
   {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
+      "Machine Learning",
       "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
     ]
   },
   {
@@ -117,45 +22,14 @@
     ]
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 2"
+      "Machine Learning",
+      "Project 3"
     ]
   },
   {
@@ -179,25 +53,56 @@
     ]
   },
   {
-    "objectID": "Competition/project5.html",
-    "href": "Competition/project5.html",
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
+      "Story Telling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
       "Project 5"
     ]
   },
   {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Competition",
-      "Project 3"
+      "Project 4"
     ]
   },
   {
@@ -212,14 +117,14 @@
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project4.html",
-    "href": "Cleansing_Projects/project4.html",
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
-      "Project 4"
+      "Competition",
+      "Project 3"
     ]
   },
   {
@@ -231,6 +136,334 @@
     "crumbs": [
       "Data Cleansing",
       "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "",
+    "text": "Show the code\nimport pandas as pd \nimport numpy as np\nfrom lets_plot import *\nLetsPlot.setup_html(isolated_frame=True)\n\nimport matplotlib.pyplot as plt\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.metrics import classification_report\nfrom sklearn.tree import DecisionTreeClassifier\nfrom sklearn.ensemble import RandomForestClassifier\n# add the additional libraries you need to import for ML here\n\nLetsPlot.setup_html(isolated_frame=True)\nShow the code\n# Include and execute your code here\n\n# import your data here using pandas and the URL\ndf4 = pd.read_csv('https://raw.githubusercontent.com/byuidatascience/data4dwellings/master/data-raw/dwellings_ml/dwellings_ml.csv')\ndf4_maybe = pd.read_csv('https://raw.githubusercontent.com/byuidatascience/data4dwellings/master/data-raw/dwellings_neighborhoods_ml/dwellings_neighborhoods_ml.csv')\n#df4"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html#elevator-pitch",
+    "href": "Cleansing_Exploration/project4.html#elevator-pitch",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "Elevator pitch",
+    "text": "Elevator pitch\nA SHORT (2-3 SENTENCES) PARAGRAPH THAT DESCRIBES KEY INSIGHTS TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS. (Note: this is not a summary of the project, but a summary of the results.)\nThere is a good chance that we can predict aspestus issues with a home. Based on machine learning models we can show wether a home is built in certain ways indicating build procedure."
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html#questiontask-1",
+    "href": "Cleansing_Exploration/project4.html#questiontask-1",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "QUESTION|TASK 1",
+    "text": "QUESTION|TASK 1\nCreate 2-3 charts that evaluate potential relationships between the home variables and before1980. Explain what you learn from the charts that could help a machine learning algorithm.\nI decided to find some charts that would show contrast from year to year or in the case of the scatterplot, variety of datapoints that would need further interpretation. For the bar graphs showing quality of homes, we can conclude that there is a stark difference between whether the home was built before or after 1980.\n\n\nShow the code\n# Include and execute your code here\n#for quality: count freq of avg, excellent,fair before/after 1980\n# for letsplot: +coord_catesian(ylim = [min,max])\n#xscale_y_continuous(limits)\n#geom_freqpoly()\nimport seaborn as sns\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(10,6))\nsns.boxplot(x='before1980', y='basement', data=df4)\nplt.title('Finished Basement Distribution by Age Group')\n\n\n\nplt.show()\n\n\n\n\n\n\n\n\n\n\n\nShow the code\nsns.scatterplot(data=df4, x='livearea', y='basement', hue='before1980')\n\nplt.show\n\n\n\n\n\n\n\n\n\n\n\nShow the code\n(ggplot(df4,aes(x='condition_AVG'))+geom_bar()).show()\n(ggplot(df4,aes(x='condition_Excel'))+geom_bar()).show()\n(ggplot(df4,aes(x='condition_Fair'))+geom_bar()).show()"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html#questiontask-2",
+    "href": "Cleansing_Exploration/project4.html#questiontask-2",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "QUESTION|TASK 2",
+    "text": "QUESTION|TASK 2\nBuild a classification model labeling houses as being built “before 1980” or “during or after 1980”. Your goal is to reach or exceed 90% accuracy. Explain your final model choice (algorithm, tuning parameters, etc) and describe what other models you tried.\nThe first issue that was needed was to drop some columns that did not aid in the discussion of asbestos problems. Columns ‘parcel’ or ‘abstrprd’ did not appear to have any meaningful value. We test and train the model based on ‘before 1980’.\n\n\nShow the code\n# Include and execute your code here\n\nX = df4.drop(columns=['parcel','abstrprd','yrbuilt','before1980'])  \ny = df4['before1980'] \n\nX_train, X_test, Y_train, Y_test = train_test_split(\n    X, y, test_size=0.2, random_state=42)\n\nprint(X_train.shape, Y_train.shape)\nprint(X_test.shape, Y_test.shape)\n\n\n(18330, 47) (18330,)\n(4583, 47) (4583,)\n\n\n\n\nShow the code\ntest = RandomForestClassifier(n_estimators=400,criterion = 'gini')\ntest.fit(X_train, Y_train) \n\nprediction = test.predict(X_test)\nfrom sklearn.metrics import classification_report\n\nprint(classification_report(Y_test, prediction))\n\n\n              precision    recall  f1-score   support\n\n           0       0.91      0.90      0.90      1710\n           1       0.94      0.95      0.94      2873\n\n    accuracy                           0.93      4583\n   macro avg       0.93      0.92      0.92      4583\nweighted avg       0.93      0.93      0.93      4583"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html#questiontask-3",
+    "href": "Cleansing_Exploration/project4.html#questiontask-3",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "QUESTION|TASK 3",
+    "text": "QUESTION|TASK 3\nJustify your classification model by discussing the most important features selected by your model. This discussion should include a feature importance chart and a description of the features.\nThis data show the importance to the learning model for predicting the year that the homes were built. Displayed are the most important features of the home. Livearea, arechetecture style, bathrooms, stories are very important in this determination. This was able to be determined in the model.\n\n\nShow the code\n# Include and execute your code here\ntest_importances = test.feature_importances_\nimportance_df = pd.DataFrame({\n    'Feature': X_train.columns,\n    'Importance': test_importances\n}).sort_values(by='Importance', ascending=False)\nimportance_df\n\ntop_5_features = importance_df.head(5)\n\nprint(top_5_features.head())\nplt.figure(figsize=(8, 5))\nplt.bar(top_5_features['Feature'], top_5_features['Importance'])\nplt.xticks(rotation=45, ha='right')\nplt.title('Top 5 Feature Importance')\nplt.tight_layout()\nplt.show()\n\n\n               Feature  Importance\n0             livearea    0.094408\n36  arcstyle_ONE-STORY    0.083873\n4              stories    0.067682\n7             numbaths    0.066926\n11                tasp    0.060215"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html#questiontask-4",
+    "href": "Cleansing_Exploration/project4.html#questiontask-4",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "QUESTION|TASK 4",
+    "text": "QUESTION|TASK 4\nDescribe the quality of your classification model using 2-3 different evaluation metrics. You also need to explain how to interpret each of the evaluation metrics you use.\nFrom the scores we see this model the precision, accuracy, and f1 are notable. Looing at the F1 score we see that the model has good precision and recall, meaning that this learning model can correctly identify homes built before 1980 to a high degree. Accuracy is the proporiton of correct predictions: this model can mostly predict correctly.\n\n\nShow the code\n# Include and execute your code here\nprediction = test.predict(X_test)\nfrom sklearn.metrics import classification_report\nprint('Classification report for RandomForest')\nprint(classification_report(Y_test, prediction))\n\n\nClassification report for RandomForest\n              precision    recall  f1-score   support\n\n           0       0.91      0.90      0.90      1710\n           1       0.94      0.95      0.94      2873\n\n    accuracy                           0.93      4583\n   macro avg       0.93      0.92      0.92      4583\nweighted avg       0.93      0.93      0.93      4583"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html#stretch-questiontask-1",
+    "href": "Cleansing_Exploration/project4.html#stretch-questiontask-1",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "STRETCH QUESTION|TASK 1",
+    "text": "STRETCH QUESTION|TASK 1\nRepeat the classification model using 3 different algorithms. Display their Feature Importance, and Decision Matrix. Explian the differences between the models and which one you would recommend to the Client.\nI decided to try some linear regression. I’m not sure how good this data set would be. I saw it as an option so I decided to see how it would go. Looks like the f1 scores, precision, and accuracy don’t quite reach 0.9. Maybe the random forest was a better method.\n\n\nShow the code\n# Include and execute your code here\n\nfrom sklearn.linear_model import LogisticRegression\n\nx = df4.drop(columns=['parcel','abstrprd','yrbuilt','before1980'])  \ny = df4['before1980'] \n\nx_train, x_test, y_train, y_test = train_test_split(\n    x, y, test_size=0.2, random_state=42)\n\nprint(x_train.shape, y_train.shape)\nprint(x_test.shape, y_test.shape)\n\nlogreg = LogisticRegression(max_iter=1500\n, random_state=42)\nlogreg.fit(x_train, y_train) \n\nprediction = logreg.predict(x_test)\nfrom sklearn.metrics import classification_report\nprint('Linear regression data')\nprint(classification_report(y_test, prediction))\n\n\n(18330, 47) (18330,)\n(4583, 47) (4583,)\nLinear regression data\n              precision    recall  f1-score   support\n\n           0       0.83      0.81      0.82      1710\n           1       0.89      0.90      0.90      2873\n\n    accuracy                           0.87      4583\n   macro avg       0.86      0.86      0.86      4583\nweighted avg       0.87      0.87      0.87      4583"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html#stretch-questiontask-2",
+    "href": "Cleansing_Exploration/project4.html#stretch-questiontask-2",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "STRETCH QUESTION|TASK 2",
+    "text": "STRETCH QUESTION|TASK 2\nJoin the dwellings_neighborhoods_ml.csv data to the dwelling_ml.csv on the parcel column to create a new dataset. Duplicate the code for the stretch question above and update it to use this data. Explain the differences and if this changes the model you recomend to the Client.\nLinear regression still wasn’t showing the conclusions we needed but for the classifiers RandomForest and DecisionTree we can see a high f1 score, higher than the previous test before combining the data bases. This show how machine learning is powerful with more data.\n\n\nShow the code\n# Include and execute your code here\n# Join the datasets on the parcel column\ncombined_df = pd.merge(df4, df4_maybe, on='parcel', how='inner')\n\n\nprint(f\"Original dwellings_ml shape: {df4.shape}\")\nprint(f\"Original neighborhoods_ml shape: {df4_maybe.shape}\")\nprint(f\"Combined dataset shape: {combined_df.shape}\")\n\n\n\nX_combined = combined_df.drop(columns=['parcel', 'abstrprd', 'yrbuilt', 'before1980'])\ny_combined = combined_df['before1980']\n\n\nX_train_c, X_test_c, y_train_c, y_test_c = train_test_split(\n    X_combined, y_combined, test_size=0.2, random_state=42)\n\nprint(f\"Training data shape: {X_train_c.shape}\")\nprint(f\"Testing data shape: {X_test_c.shape}\")\n\n\nrf_model = RandomForestClassifier(n_estimators=400, criterion='gini', random_state=42)\nrf_model.fit(X_train_c, y_train_c)\nrf_pred = rf_model.predict(X_test_c)\n\n\nlogreg_model = LogisticRegression(max_iter=1000, random_state=42)\nlogreg_model.fit(X_train_c, y_train_c)\nlogreg_pred = logreg_model.predict(X_test_c)\n\n\ndt_model = DecisionTreeClassifier(random_state=42)\ndt_model.fit(X_train_c, y_train_c)\ndt_pred = dt_model.predict(X_test_c)\n\n\nprint(\"Random Forest with combined data:\")\nprint(classification_report(y_test_c, rf_pred))\n\nprint(\"\\nLogistic Regression with combined data:\")\nprint(classification_report(y_test_c, logreg_pred))\n\nprint(\"\\nDecision Tree with combined data:\")\nprint(classification_report(y_test_c, dt_pred))\n\n\nOriginal dwellings_ml shape: (22913, 51)\nOriginal neighborhoods_ml shape: (22913, 274)\nCombined dataset shape: (27961, 324)\nTraining data shape: (22368, 320)\nTesting data shape: (5593, 320)\n\n\nRandom Forest with combined data:\n              precision    recall  f1-score   support\n\n           0       0.96      0.96      0.96      2138\n           1       0.97      0.98      0.97      3455\n\n    accuracy                           0.97      5593\n   macro avg       0.97      0.97      0.97      5593\nweighted avg       0.97      0.97      0.97      5593\n\n\nLogistic Regression with combined data:\n              precision    recall  f1-score   support\n\n           0       0.85      0.82      0.83      2138\n           1       0.89      0.91      0.90      3455\n\n    accuracy                           0.88      5593\n   macro avg       0.87      0.87      0.87      5593\nweighted avg       0.88      0.88      0.88      5593\n\n\nDecision Tree with combined data:\n              precision    recall  f1-score   support\n\n           0       0.95      0.95      0.95      2138\n           1       0.97      0.97      0.97      3455\n\n    accuracy                           0.96      5593\n   macro avg       0.96      0.96      0.96      5593\nweighted avg       0.96      0.96      0.96      5593"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html#stretch-questiontask-3",
+    "href": "Cleansing_Exploration/project4.html#stretch-questiontask-3",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "STRETCH QUESTION|TASK 3",
+    "text": "STRETCH QUESTION|TASK 3\nCan you build a model that predicts the year a house was built? Explain the model and the evaluation metrics you would use to determine if the model is good.\nI’m hoping this code makes sense.I found a linear regression model that could work for our purposes here. I’m hoping that setting the ‘yrbuilt’ column will test to parameterize the years, I’m hoping the model can pick up patterns. This code takes much longer to run. I’m skeptical if the model worked well because I have an Rsquared score of 1…which should not be possible. CORRECTION: I forgot to drop the yrbuilt column in the training. This model is only OKAY. It has a higher r2 score of 0.78 but we cannot give a solid confidence if being able to predict the year built can be based on this model.\n\n\nShow the code\nfrom sklearn.ensemble import RandomForestRegressor\nfrom sklearn.linear_model import LinearRegression\nfrom sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score\n\nX_reg = df4.drop(columns=['parcel', 'abstrprd','yrbuilt', 'before1980'])\ny_reg = df4['yrbuilt']\n\n\nX_train_reg, X_test_reg, y_train_reg, y_test_reg = train_test_split(\n    X_reg, y_reg, test_size=0.2, random_state=42)\n\n\nrf_reg = RandomForestRegressor(n_estimators=200, random_state=42)\nrf_reg.fit(X_train_reg, y_train_reg)\n\n\nrf_reg_pred = rf_reg.predict(X_test_reg)\n\n\nrf_mse = mean_squared_error(y_test_reg, rf_reg_pred)\nrf_rmse = np.sqrt(rf_mse)\nrf_mae = mean_absolute_error(y_test_reg, rf_reg_pred)\nrf_r2 = r2_score(y_test_reg, rf_reg_pred)\n\nprint(f\"Random Forest Regression Results:\")\nprint(f\"Mean Squared Error: {rf_mse:.2f}\")\nprint(f\"Root Mean Squared Error: {rf_rmse:.2f} years\")\nprint(f\"Mean Absolute Error: {rf_mae:.2f} years\")\nprint(f\"R² Score: {rf_r2:.4f}\")\n\n\nRandom Forest Regression Results:\nMean Squared Error: 288.90\nRoot Mean Squared Error: 17.00 years\nMean Absolute Error: 10.34 years\nR² Score: 0.7877\n\n\n\n\n\nShow the code\n#Predict number instead of category"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Client Report - [Whats in a Name?]",
+    "section": "",
+    "text": "Show the code\nimport pandas as pd\nimport numpy as np\nfrom lets_plot import *\n\nLetsPlot.setup_html(isolated_frame=True)"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#project-notes",
+    "href": "Cleansing_Exploration/project1.html#project-notes",
+    "title": "Client Report - [Whats in a Name?]",
+    "section": "Project Notes",
+    "text": "Project Notes\nFor Project 1 the answer to each question should include a chart and a written response. The years labels on your charts should not include a comma. At least two of your charts must include reference marks.\n\n\nShow the code\n# Learn morea about Code Cells: https://quarto.org/docs/reference/cells/cells-jupyter.html\n\n# Include and execute your code here\ndf = pd.read_csv(\"https://github.com/byuidatascience/data4names/raw/master/data-raw/names_year/names_year.csv\")"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#questiontask-1-usa-life-expectancy",
+    "href": "Cleansing_Exploration/project1.html#questiontask-1-usa-life-expectancy",
+    "title": "Client Report - [Whats in a Name?]",
+    "section": "QUESTION|TASK 1 USA life expectancy",
+    "text": "QUESTION|TASK 1 USA life expectancy\nHow does your name at your birth year compare to its use historically?\nLooks like my name was increasing in popularity until its peak in 2006 and 2000 rode that wave. Since 2006 it has decreased in popularity.\n\n\nShow the code\n# Include and execute your code here\n\n\nmiguel_data = df.query('name == \"Miguel\"')\n\n(ggplot(data=miguel_data, mapping=aes(x='year', y='Total')) +\n    geom_line(color='blue') +\n    geom_point(color='blue')+\n    geom_vline(xintercept=2000,color='red',linetype='dashed')+\n    geom_text(x=1980,y=3917,label = \"Year I Was Born --&gt;\") +\n    labs(\n      title='Popularity of the Name Miguel Over Time',\n      x='Year',\n      y='Babies Named Miguel'\n    )+\n    scale_x_continuous(format=\"d\")\n).show()\n\n\n\n\n### Looks like my name was increasing in popularity until its peak in 2006 and 2000 rode that wave. Since 2006 it has decreased in popularity."
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#questiontask-2",
+    "href": "Cleansing_Exploration/project1.html#questiontask-2",
+    "title": "Client Report - [Whats in a Name?]",
+    "section": "QUESTION|TASK 2",
+    "text": "QUESTION|TASK 2\nIf you talked to someone named Brittany on the phone, what is your guess of his or her age? What ages would you not guess?\nIf I was talking to a person named Brittany on the phone I would guess their age to be around 33-37. I would not guess their age to be greater or less than that.\n\n\nShow the code\n# Include and execute your code here\n\nbrittany_data = df.query('name == \"Brittany\"')\n\n(ggplot(data=brittany_data, mapping=aes(x='year', y='Total')) +\n    geom_line(color='blue') +\n    geom_point(color='blue')+\n    \n    labs(\n      title='Popularity of the name Brittany Over Time',\n      x='Year',\n      y='Babies Named Brittany'\n    )+\n    scale_x_continuous(format=\"d\")\n\n).show()\n\n### If I was talking to a person named Brittany on the phone I would guess their age to be around 33-37. I would not guess their age to be greater or less than that."
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#questiontask-3",
+    "href": "Cleansing_Exploration/project1.html#questiontask-3",
+    "title": "Client Report - [Whats in a Name?]",
+    "section": "QUESTION|TASK 3",
+    "text": "QUESTION|TASK 3\nMary, Martha, Peter, and Paul are all Christian names. From 1920 - 2000, compare the name usage of each of the four names in a single chart. What trends do you notice?\nMary was an extremely popular name before 2000, more than the others. This makes sense knowing christianity was the predominate religion in the USA, perhaps we see this popularity due to Catholicism and their adoration for Mary. An observation presented in class was the Ku Klux Klan reemergence in the 1920s, which resulted in anti-immagration, anti-Catholocism and anti-Semitism. That could have caused the decline we see from ~1920-1936.\n\n\nShow the code\n# Include and execute your code here\nchristian_names = df.query('name in [\"Mary\",\"Martha\",\"Peter\", \"Paul\"] ')\n\n(ggplot(data=christian_names, mapping=aes(x='year', y='Total',color = 'name')) +\n    geom_line(color='grey') +\n    geom_point(size=3) +\n    \n    \n    labs(\n      title='Popularity of Biblical Names Over Time',\n      x='Year',\n      y='Babies Named',\n      color = 'Name'\n    )+\n    scale_x_continuous(format=\"d\")+\n    xlim(1920,2000)\n\n).show()\n\n### Mary was an extremely popular name before 2000, more than the others. This makes sense knowing christianity was the predominate religion in the world, perhaps we see this popularity due to Catholicism and their adoration for Mary."
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#questiontask-4",
+    "href": "Cleansing_Exploration/project1.html#questiontask-4",
+    "title": "Client Report - [Whats in a Name?]",
+    "section": "QUESTION|TASK 4",
+    "text": "QUESTION|TASK 4\nThink of a unique name from a famous movie. Plot the usage of that name and see how changes line up with the movie release. Does it look like the movie had an effect on usage?\nNoting when the first Star Wars movies were released we can make some inferences on how the popularity of the name Luke came to be. We can see slight jumps after the release of A New Hope in 1977 but nothing super significant. We can note the same after Return of the Jedi in 1983. What could be an explanation of the spike in popularity from 1995 and on is that the young people who grew up watching Star Wars could have named their kid(s) Luke when they started having children a few years after the first release.\n\n\nShow the code\nluke_data = df.query('name ==\"Luke\"')\n\n(ggplot(data=luke_data, \n        mapping=aes(x='year', y='Total')) + \n    geom_line() + \n    geom_point(size=3) +\n    scale_x_continuous(format=\"d\") +\n    geom_vline(xintercept=1977,color='red',linetype='dashed')+\n    geom_text(x=1957, y = 6000, label = 'A New Hope Released')+\n    geom_vline(xintercept=1983,color='green',linetype='dashed')+ \n    geom_text(x=2000, y = 900, label = 'Return of Jedi Released')+\n\n    labs(\n        title='A New Hope(ful name)',\n        x='Year',\n        y='Number of Babies Named Luke',\n        color='Name'\n    )\n).show()\n\n### For Luke, it does appear that the movie influenced the popularity of the name. It appears that the name might have become that much popular when the generation who grew up with Star Wars had children instead of immediately after the first movie was released. I tried to see if the names from Disney's Frozen had any popularity increase after 2013 but they only increased slightly."
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html#stretch-questiontask-1",
+    "href": "Cleansing_Exploration/project1.html#stretch-questiontask-1",
+    "title": "Client Report - [Whats in a Name?]",
+    "section": "STRETCH QUESTION|TASK 1",
+    "text": "STRETCH QUESTION|TASK 1\nReproduce the chart Elliot using the data from the names_year.csv file.\ntype your results and analysis here\n\n\nShow the code\n# Include and execute your code here\n\nElliot_data = df.query('name ==\"Elliot\"')\n\n(ggplot(data= Elliot_data,\n    mapping = aes(x='year',y='Total',color='name'))+\n    geom_line()+  # Remove the fixed color here to let the aesthetic work\n    geom_vline(xintercept = 1982,color='red',linetype = 'dashed')+\n    geom_vline(xintercept = 2002,color='red',linetype = 'dashed')+\n    geom_vline(xintercept = 1985,color='red',linetype = 'dashed')+\n    geom_text(x=1972,y=1200,label = \"First Release\",color='black')+\n    geom_text(x=1995,y=1200,label = \"Second Release\",color='black')+\n    geom_text(x=2012,y=1200,label = \"Third Release\",color='black')+\n    scale_x_continuous(format='d')+\n    xlim(1950,2025)+\n    labs(\n      title = 'Elliot... What?',\n      x='Year',\n      y='Total',\n      color= 'Name'\n    ) +\n    theme(legend_position = 'right')+\n    scale_color_manual(values=['#800080'])\n)"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Client Report - [Late Flights and Missing Data]",
+    "section": "",
+    "text": "Show the code\nimport pandas as pd\nimport numpy as np\nimport json\nfrom lets_plot import *\n\nLetsPlot.setup_html(isolated_frame=True)\nShow the code\n# Learn morea about Code Cells: https://quarto.org/docs/reference/cells/cells-jupyter.html\n\n# Include and execute your code here\ndf = pd.read_json(\"https://github.com/byuidatascience/data4missing/raw/master/data-raw/flights_missing/flights_missing.json\")"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html#elevator-pitch",
+    "href": "Cleansing_Exploration/project3.html#elevator-pitch",
+    "title": "Client Report - [Late Flights and Missing Data]",
+    "section": "Elevator pitch",
+    "text": "Elevator pitch\nA SHORT (2-3 SENTENCES) PARAGRAPH THAT DESCRIBES KEY INSIGHTS TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS. (Note: this is not a summary of the project, but a summary of the results.)\nUsing the most recent 2015 data, the data suggests that San Francisco airport has the worst delays due to weather and potential other factors generalized by a delay ratio based on delayed flights vs total flights. Additionally the worst month to travel by plane may be June."
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html#questiontask-1",
+    "href": "Cleansing_Exploration/project3.html#questiontask-1",
+    "title": "Client Report - [Late Flights and Missing Data]",
+    "section": "QUESTION|TASK 1",
+    "text": "QUESTION|TASK 1\nFix all of the varied missing data types in the data to be consistent (all missing values should be displayed as “NaN”). In your report include one record example (one row) from your new data, in the raw JSON format. Your example should display the “NaN” for at least one missing value.__\nUpon looking at the data I found a few elements that did not help the data set. I replaced ‘n/a’,‘unknown’,’‘,-999 with NaN int the data set. There was also a number called 1500+ which cannot be used numerically so I changed it to a simple 1500. I also changed the ’num_of_delays_carrier’ column to a integer column.\n\n\nShow the code\n# Include and execute your code here\ndf = df.replace(['n/a','unknown','',-999],np.nan)\ndf = df.replace(['1500+'],1500)\ndf['num_of_delays_carrier']=df['num_of_delays_carrier'].astype(int)\ndf.info()\n\n\ndf.iloc[0:1, ].to_json\n\n\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 924 entries, 0 to 923\nData columns (total 17 columns):\n #   Column                         Non-Null Count  Dtype  \n---  ------                         --------------  -----  \n 0   airport_code                   924 non-null    object \n 1   airport_name                   868 non-null    object \n 2   month                          897 non-null    object \n 3   year                           901 non-null    float64\n 4   num_of_flights_total           924 non-null    int64  \n 5   num_of_delays_carrier          924 non-null    int64  \n 6   num_of_delays_late_aircraft    884 non-null    float64\n 7   num_of_delays_nas              924 non-null    int64  \n 8   num_of_delays_security         924 non-null    int64  \n 9   num_of_delays_weather          924 non-null    int64  \n 10  num_of_delays_total            924 non-null    int64  \n 11  minutes_delayed_carrier        872 non-null    float64\n 12  minutes_delayed_late_aircraft  924 non-null    int64  \n 13  minutes_delayed_nas            876 non-null    float64\n 14  minutes_delayed_security       924 non-null    int64  \n 15  minutes_delayed_weather        924 non-null    int64  \n 16  minutes_delayed_total          924 non-null    int64  \ndtypes: float64(4), int64(10), object(3)\nmemory usage: 122.8+ KB\n\n\n&lt;bound method NDFrame.to_json of   airport_code                                       airport_name    month  \\\n0          ATL  Atlanta, GA: Hartsfield-Jackson Atlanta Intern...  January   \n\n     year  num_of_flights_total  num_of_delays_carrier  \\\n0  2005.0                 35048                   1500   \n\n   num_of_delays_late_aircraft  num_of_delays_nas  num_of_delays_security  \\\n0                          NaN               4598                      10   \n\n   num_of_delays_weather  num_of_delays_total  minutes_delayed_carrier  \\\n0                    448                 8355                 116423.0   \n\n   minutes_delayed_late_aircraft  minutes_delayed_nas  \\\n0                         104415             207467.0   \n\n   minutes_delayed_security  minutes_delayed_weather  minutes_delayed_total  \n0                       297                    36931                 465533  &gt;"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html#questiontask-2",
+    "href": "Cleansing_Exploration/project3.html#questiontask-2",
+    "title": "Client Report - [Late Flights and Missing Data]",
+    "section": "QUESTION|TASK 2",
+    "text": "QUESTION|TASK 2\nWhich airport has the worst delays? Describe the metric you chose, and why you chose it to determine the “worst” airport. Your answer should include a summary table that lists (for each airport) the total number of flights, total number of delayed flights, proportion of delayed flights, and average delay time in hours.\nI decided to make a ratio of delays to total flights written in the ‘delay_ratio’ column. I did it first for all years but decided to instead use data from 2015 to understand the most recent delays. Included is also the average time delayed in hours. Even though San Francisco doesn’t have the highest average of time delayed I argue that it is stil te worse airport because of the delay ratio.\n\n\nShow the code\n# Include and execute your code here\ndf = df.replace(['n/a','unknown','',-999],np.nan)\ndf = df.replace(['1500+'],1500)\ndf['num_of_delays_carrier']=df['num_of_delays_carrier'].astype(int)\n\n\ndf_2015 = df[df['year'] == 2015]\nmonthly_summary = df_2015.groupby('airport_code')[['num_of_flights_total', \n                                                 'num_of_delays_total',\n                                                 'minutes_delayed_total']].sum()\n\n\nmonthly_summary['delay_ratio'] = monthly_summary['num_of_delays_total'] / monthly_summary['num_of_flights_total'] * 100\n\n# minutes to hours\nmonthly_summary['hours_delayed_total'] = monthly_summary['minutes_delayed_total'] / 60\n\n# delay in hours, did I do this right?\nmonthly_summary['avg_delay_hours'] = monthly_summary['hours_delayed_total'] / monthly_summary['num_of_delays_total']\n\n\nmonthly_summary = monthly_summary.sort_values('delay_ratio', ascending=False)\n\nmonthly_summary = monthly_summary.round(2)\n\nmonthly_summary.iloc[0:1, ].to_json\n\n\n&lt;bound method NDFrame.to_json of               num_of_flights_total  num_of_delays_total  \\\nairport_code                                              \nSFO                         162136                35080   \n\n              minutes_delayed_total  delay_ratio  hours_delayed_total  \\\nairport_code                                                            \nSFO                         2213414        21.64             36890.23   \n\n              avg_delay_hours  \nairport_code                   \nSFO                      1.05  &gt;"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html#questiontask-3",
+    "href": "Cleansing_Exploration/project3.html#questiontask-3",
+    "title": "Client Report - [Late Flights and Missing Data]",
+    "section": "QUESTION|TASK 3",
+    "text": "QUESTION|TASK 3\nWhat is the best month to fly if you want to avoid delays of any length? Describe the metric you chose and why you chose it to calculate your answer. Include one chart to help support your answer, with the x-axis ordered by month. (To answer this question, you will need to remove any rows that are missing the Month variable.)\nAs we can see in the chart provided, June could be the worst month to fly in. I decided to quantify this guess by flight ratio. I made sure to remove any rows wihtout a month value. To clarify, the choice to use 2015 data has the hope to display the most recent and therefore more likely circumstances for flights.\n\n\nShow the code\n# Include and execute your code here, lambda stuff\ndf = df.replace(['n/a','unknown','',-999],np.nan)\ndf = df.replace(['1500+'],1500)\ndf['num_of_delays_carrier']=df['num_of_delays_carrier'].astype(int)\ndf_2015 = df[df['year'] == 2015]\ndf_2015withmonth = df_2015.dropna(subset=['month'])\n\nmonthly_summary = df_2015withmonth.groupby('month').agg({\n    'num_of_flights_total': 'sum',\n    'num_of_delays_total': 'sum',\n    'num_of_delays_total': lambda x: (x.sum() / df_2015['num_of_flights_total'].sum()) * 100\n})\n\nmonthly_summary['delay_ratio'] = monthly_summary['num_of_delays_total'] / monthly_summary['num_of_flights_total'] * 100\nmonthly_summary = monthly_summary.sort_values('delay_ratio', ascending=False)\nmonthly_summary\n\n\nchart=(ggplot(monthly_summary.reset_index(), aes(x='month', y='delay_ratio'))\n + geom_bar(stat='identity', fill='blue')\n + ggtitle('2015 Monthly Flight Delay Ratios')\n + xlab('Month')\n + ylab('Delay Ratio (%)')\n \n)\nchart"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html#questiontask-4",
+    "href": "Cleansing_Exploration/project3.html#questiontask-4",
+    "title": "Client Report - [Late Flights and Missing Data]",
+    "section": "QUESTION|TASK 4",
+    "text": "QUESTION|TASK 4\nAccording to the BTS website, the “Weather” category only accounts for severe weather delays. Mild weather delays are not counted in the “Weather” category, but are actually included in both the “NAS” and “Late-Arriving Aircraft” categories. Your job is to create a new column that calculates the total number of flights delayed by weather (both severe and mild). You will need to replace all the missing values in the Late Aircraft variable with the mean. Show your work by printing the first 5 rows of data in a table. Use these three rules for your calculations:\na. 100% of delayed flights in the Weather category are due to weather  \nb. 30% of all delayed flights in the Late-Arriving category are due to weather  \nc. From April to August, 40% of delayed flights in the NAS category are due to weather. The rest of the months, the proportion rises to 65%    \nI split the code up into a few parts and I’m hoping the database rewrites are easy to follow. This analysis shows that ‘less severe’ weather delays have occurance than ‘severe’ weather.\n\n\nShow the code\n# Include and execute your code here\n\n\ndf = df.replace(['n/a','unknown','',-999],np.nan)\ndf = df.replace(['1500+'],1500)\ndf['num_of_delays_carrier'] = df['num_of_delays_carrier'].astype(int)\n\n# Create dfweather and clean it\ndfweather = df.copy()\ndfweather = dfweather.dropna(subset=['month','num_of_delays_late_aircraft','minutes_delayed_nas','year','minutes_delayed_carrier','minutes_delayed_nas'])\n\n\n\n\nShow the code\n# Include and execute your code here\n\n# Weather calculations\ndfweather['weather_severe'] = dfweather['num_of_delays_weather']\nlate_aircraft_mean = dfweather['num_of_delays_late_aircraft'].mean()\ndfweather['num_of_delays_late_aircraft'] = dfweather['num_of_delays_late_aircraft'].fillna(late_aircraft_mean)\ndfweather['weather_late_aircraft'] = dfweather['num_of_delays_late_aircraft'] * 0.30\n\n\n\n\nShow the code\n# Include and execute your code here\n# 3. NAS weather delays (40% Apr-Aug, 65% other months)\n# NAS weather calculation\ndfweather['weather_nas'] = dfweather.apply(\n    lambda x: x['num_of_delays_nas'] * 0.40 if x['month'] in [4, 5, 6, 7, 8]\n    else x['num_of_delays_nas'] * 0.65,\n    axis=1\n)\n\n# Total weather delays\ndfweather['total_weather_delays'] = dfweather['weather_severe'] + dfweather['weather_late_aircraft'] + dfweather['weather_nas']\n\nprint(dfweather[['month', 'weather_severe', 'weather_late_aircraft', 'weather_nas', 'total_weather_delays']].head())\n\ndf.iloc[0:1, ].to_json\n\n\n     month  weather_severe  weather_late_aircraft  weather_nas  \\\n1  January             233                  278.4       607.75   \n3  January             306                  676.5      3519.75   \n4  January              56                  204.0       414.70   \n5  January             114                  219.9       757.90   \n6  January             270                  169.2       561.60   \n\n   total_weather_delays  \n1               1119.15  \n3               4502.25  \n4                674.70  \n5               1091.80  \n6               1000.80  \n\n\n&lt;bound method NDFrame.to_json of   airport_code                                       airport_name    month  \\\n0          ATL  Atlanta, GA: Hartsfield-Jackson Atlanta Intern...  January   \n\n     year  num_of_flights_total  num_of_delays_carrier  \\\n0  2005.0                 35048                   1500   \n\n   num_of_delays_late_aircraft  num_of_delays_nas  num_of_delays_security  \\\n0                          NaN               4598                      10   \n\n   num_of_delays_weather  num_of_delays_total  minutes_delayed_carrier  \\\n0                    448                 8355                 116423.0   \n\n   minutes_delayed_late_aircraft  minutes_delayed_nas  \\\n0                         104415             207467.0   \n\n   minutes_delayed_security  minutes_delayed_weather  minutes_delayed_total  \n0                       297                    36931                 465533  &gt;"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html#questiontask-5",
+    "href": "Cleansing_Exploration/project3.html#questiontask-5",
+    "title": "Client Report - [Late Flights and Missing Data]",
+    "section": "QUESTION|TASK 5",
+    "text": "QUESTION|TASK 5\nUsing the new weather variable calculated above, create a barplot showing the proportion of all flights that are delayed by weather at each airport. Describe what you learn from this graph.\nWe can see that SFO once again has pretty bad delays, now we can see how those delays are played by weather.\n\n\nShow the code\n# Include and execute your code here\n# Calculate the proportion of weather delays per airport\nfrom lets_plot import *\nLetsPlot.setup_html()\n\n\nairport_sum = dfweather.groupby('airport_code').agg({\n    'total_weather_delays': 'sum',\n    'num_of_flights_total': 'sum'\n}).reset_index()\n\n\nairport_sum['weather_delay_ratio'] = (airport_sum['total_weather_delays'] / airport_sum['num_of_flights_total']) * 100\n\nairport_sum = airport_sum.sort_values('weather_delay_ratio', ascending=True)\n\n\n\nchart = (ggplot(data=airport_sum)\n    + aes(x='weather_delay_ratio', y='airport_code')  \n    + geom_bar(stat='identity', fill='#87CEEB', width=0.7)  # Use hex color code\n    + ggtitle('Weather Delay Proportion by Airport')\n    + xlab('Percentage of Flights Delayed by Weather')\n    + ylab('Airport Code')\n)\nchart.show()"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html#stretch-questiontask-1",
+    "href": "Cleansing_Exploration/project3.html#stretch-questiontask-1",
+    "title": "Client Report - [Late Flights and Missing Data]",
+    "section": "STRETCH QUESTION|TASK 1",
+    "text": "STRETCH QUESTION|TASK 1\nWhich delay is the worst delay? Create a similar analysis as above for Weahter Delay with: Carrier Delay and Security Delay. Compare the proportion of delay for each of the three categories in a Chart and a Table. Describe your results.\ntype your results and analysis here\n\n\nShow the code\n# Include and execute your code here\n\n\n\n\n\nShow the code\n#\n## Read in libraries\n#import pandas as pd\n#import numpy as np\n#from lets_plot import *\n#LetsPlot.setup_html(isolated_frame=True)\n#df = pd.read_json(\"https://github.com/byuidatascience/data4missing/raw/master/data-raw/flights_missing/flights_missing.json\")\n#df['month'].value_counts()['n/a']\n#df.isna().sum()\n#pd.crosstab()\n\n\n\n\nShow the code\n# Read in libraries\nimport pandas as pd\nimport numpy as np\nfrom lets_plot import *\nLetsPlot.setup_html(isolated_frame=True)\nfrom sklearn.model_selection import train_test_split\nfrom sklearn import metrics\n\n# Read the data\ndf = pd.read_csv(\"https://github.com/byuidatascience/data4dwellings/raw/master/data-raw/dwellings_ml/dwellings_ml.csv\")\n\n# For this dataset, we'll use 'before1980' as the target column\nX = df.drop(columns=['before1980'])  \ny = df['before1980']\n\n# Split the data with specified parameters\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.34, random_state=76)\n\n# Calculate average of first 10 test values\naverage_first_10 = y_test[:10].mean()\nprint(\"Average of the first 10 values in testing y:\", average_first_10)\n\n# Calculate average of first 10 training X values for the selling price 'sprice'\naverage_first_10_sprice = X_train['sprice'][:10].mean()\nprint(\"Average of the first 10 values in training X for sprice:\", average_first_10_sprice)\n\n\nAverage of the first 10 values in testing y: 0.4\nAverage of the first 10 values in training X for sprice: 2131970.0"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
     ]
   },
   {
@@ -297,210 +530,11 @@
     "text": "STRETCH QUESTION|TASK 3\nCreate a new column that converts the location groupings to a single number. Drop the location categorical column.\ntype your results and analysis here\n\n\nShow the code\n# Include and execute your code here"
   },
   {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Late Flights and Missing Data]",
-    "section": "",
-    "text": "Show the code\nimport pandas as pd\nimport numpy as np\nimport json\nfrom lets_plot import *\n\nLetsPlot.setup_html(isolated_frame=True)\nShow the code\n# Learn morea about Code Cells: https://quarto.org/docs/reference/cells/cells-jupyter.html\n\n# Include and execute your code here\ndf = pd.read_json(\"https://github.com/byuidatascience/data4missing/raw/master/data-raw/flights_missing/flights_missing.json\")"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html#elevator-pitch",
-    "href": "Cleansing_Exploration/project3.html#elevator-pitch",
-    "title": "Client Report - [Late Flights and Missing Data]",
-    "section": "Elevator pitch",
-    "text": "Elevator pitch\nA SHORT (2-3 SENTENCES) PARAGRAPH THAT DESCRIBES KEY INSIGHTS TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS. (Note: this is not a summary of the project, but a summary of the results.)\nUsing the most recent 2015 data, the data suggests that San Francisco airport has the worst delays due to weather and potential other factors generalized by a delay ratio based on delayed flights vs total flights. Additionally the worst month to travel by plane may be June."
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html#questiontask-1",
-    "href": "Cleansing_Exploration/project3.html#questiontask-1",
-    "title": "Client Report - [Late Flights and Missing Data]",
-    "section": "QUESTION|TASK 1",
-    "text": "QUESTION|TASK 1\nFix all of the varied missing data types in the data to be consistent (all missing values should be displayed as “NaN”). In your report include one record example (one row) from your new data, in the raw JSON format. Your example should display the “NaN” for at least one missing value.__\nUpon looking at the data I found a few elements that did not help the data set. I replaced ‘n/a’,‘unknown’,’‘,-999 with NaN int the data set. There was also a number called 1500+ which cannot be used numerically so I changed it to a simple 1500. I also changed the ’num_of_delays_carrier’ column to a integer column.\n\n\nShow the code\n# Include and execute your code here\ndf = df.replace(['n/a','unknown','',-999],np.nan)\ndf = df.replace(['1500+'],1500)\ndf['num_of_delays_carrier']=df['num_of_delays_carrier'].astype(int)\ndf.info()\n\n\ndf.iloc[0:1, ].to_json\n\n\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 924 entries, 0 to 923\nData columns (total 17 columns):\n #   Column                         Non-Null Count  Dtype  \n---  ------                         --------------  -----  \n 0   airport_code                   924 non-null    object \n 1   airport_name                   868 non-null    object \n 2   month                          897 non-null    object \n 3   year                           901 non-null    float64\n 4   num_of_flights_total           924 non-null    int64  \n 5   num_of_delays_carrier          924 non-null    int64  \n 6   num_of_delays_late_aircraft    884 non-null    float64\n 7   num_of_delays_nas              924 non-null    int64  \n 8   num_of_delays_security         924 non-null    int64  \n 9   num_of_delays_weather          924 non-null    int64  \n 10  num_of_delays_total            924 non-null    int64  \n 11  minutes_delayed_carrier        872 non-null    float64\n 12  minutes_delayed_late_aircraft  924 non-null    int64  \n 13  minutes_delayed_nas            876 non-null    float64\n 14  minutes_delayed_security       924 non-null    int64  \n 15  minutes_delayed_weather        924 non-null    int64  \n 16  minutes_delayed_total          924 non-null    int64  \ndtypes: float64(4), int64(10), object(3)\nmemory usage: 122.8+ KB\n\n\n&lt;bound method NDFrame.to_json of   airport_code                                       airport_name    month  \\\n0          ATL  Atlanta, GA: Hartsfield-Jackson Atlanta Intern...  January   \n\n     year  num_of_flights_total  num_of_delays_carrier  \\\n0  2005.0                 35048                   1500   \n\n   num_of_delays_late_aircraft  num_of_delays_nas  num_of_delays_security  \\\n0                          NaN               4598                      10   \n\n   num_of_delays_weather  num_of_delays_total  minutes_delayed_carrier  \\\n0                    448                 8355                 116423.0   \n\n   minutes_delayed_late_aircraft  minutes_delayed_nas  \\\n0                         104415             207467.0   \n\n   minutes_delayed_security  minutes_delayed_weather  minutes_delayed_total  \n0                       297                    36931                 465533  &gt;"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html#questiontask-2",
-    "href": "Cleansing_Exploration/project3.html#questiontask-2",
-    "title": "Client Report - [Late Flights and Missing Data]",
-    "section": "QUESTION|TASK 2",
-    "text": "QUESTION|TASK 2\nWhich airport has the worst delays? Describe the metric you chose, and why you chose it to determine the “worst” airport. Your answer should include a summary table that lists (for each airport) the total number of flights, total number of delayed flights, proportion of delayed flights, and average delay time in hours.\nI decided to make a ratio of delays to total flights written in the ‘delay_ratio’ column. I did it first for all years but decided to instead use data from 2015 to understand the most recent delays. Included is also the average time delayed in hours. Even though San Francisco doesn’t have the highest average of time delayed I argue that it is stil te worse airport because of the delay ratio.\n\n\nShow the code\n# Include and execute your code here\ndf = df.replace(['n/a','unknown','',-999],np.nan)\ndf = df.replace(['1500+'],1500)\ndf['num_of_delays_carrier']=df['num_of_delays_carrier'].astype(int)\n\n\ndf_2015 = df[df['year'] == 2015]\nmonthly_summary = df_2015.groupby('airport_code')[['num_of_flights_total', \n                                                 'num_of_delays_total',\n                                                 'minutes_delayed_total']].sum()\n\n\nmonthly_summary['delay_ratio'] = monthly_summary['num_of_delays_total'] / monthly_summary['num_of_flights_total'] * 100\n\n# minutes to hours\nmonthly_summary['hours_delayed_total'] = monthly_summary['minutes_delayed_total'] / 60\n\n# delay in hours, did I do this right?\nmonthly_summary['avg_delay_hours'] = monthly_summary['hours_delayed_total'] / monthly_summary['num_of_delays_total']\n\n\nmonthly_summary = monthly_summary.sort_values('delay_ratio', ascending=False)\n\nmonthly_summary = monthly_summary.round(2)\n\nmonthly_summary.iloc[0:1, ].to_json\n\n\n&lt;bound method NDFrame.to_json of               num_of_flights_total  num_of_delays_total  \\\nairport_code                                              \nSFO                         162136                35080   \n\n              minutes_delayed_total  delay_ratio  hours_delayed_total  \\\nairport_code                                                            \nSFO                         2213414        21.64             36890.23   \n\n              avg_delay_hours  \nairport_code                   \nSFO                      1.05  &gt;"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html#questiontask-3",
-    "href": "Cleansing_Exploration/project3.html#questiontask-3",
-    "title": "Client Report - [Late Flights and Missing Data]",
-    "section": "QUESTION|TASK 3",
-    "text": "QUESTION|TASK 3\nWhat is the best month to fly if you want to avoid delays of any length? Describe the metric you chose and why you chose it to calculate your answer. Include one chart to help support your answer, with the x-axis ordered by month. (To answer this question, you will need to remove any rows that are missing the Month variable.)\nAs we can see in the chart provided, June could be the worst month to fly in. I decided to quantify this guess by flight ratio. I made sure to remove any rows wihtout a month value. To clarify, the choice to use 2015 data has the hope to display the most recent and therefore more likely circumstances for flights.\n\n\nShow the code\n# Include and execute your code here, lambda stuff\ndf = df.replace(['n/a','unknown','',-999],np.nan)\ndf = df.replace(['1500+'],1500)\ndf['num_of_delays_carrier']=df['num_of_delays_carrier'].astype(int)\ndf_2015 = df[df['year'] == 2015]\ndf_2015withmonth = df_2015.dropna(subset=['month'])\n\nmonthly_summary = df_2015withmonth.groupby('month').agg({\n    'num_of_flights_total': 'sum',\n    'num_of_delays_total': 'sum',\n    'num_of_delays_total': lambda x: (x.sum() / df_2015['num_of_flights_total'].sum()) * 100\n})\n\nmonthly_summary['delay_ratio'] = monthly_summary['num_of_delays_total'] / monthly_summary['num_of_flights_total'] * 100\nmonthly_summary = monthly_summary.sort_values('delay_ratio', ascending=False)\nmonthly_summary\n\n\nchart=(ggplot(monthly_summary.reset_index(), aes(x='month', y='delay_ratio'))\n + geom_bar(stat='identity', fill='blue')\n + ggtitle('2015 Monthly Flight Delay Ratios')\n + xlab('Month')\n + ylab('Delay Ratio (%)')\n \n)\nchart"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html#questiontask-4",
-    "href": "Cleansing_Exploration/project3.html#questiontask-4",
-    "title": "Client Report - [Late Flights and Missing Data]",
-    "section": "QUESTION|TASK 4",
-    "text": "QUESTION|TASK 4\nAccording to the BTS website, the “Weather” category only accounts for severe weather delays. Mild weather delays are not counted in the “Weather” category, but are actually included in both the “NAS” and “Late-Arriving Aircraft” categories. Your job is to create a new column that calculates the total number of flights delayed by weather (both severe and mild). You will need to replace all the missing values in the Late Aircraft variable with the mean. Show your work by printing the first 5 rows of data in a table. Use these three rules for your calculations:\na. 100% of delayed flights in the Weather category are due to weather  \nb. 30% of all delayed flights in the Late-Arriving category are due to weather  \nc. From April to August, 40% of delayed flights in the NAS category are due to weather. The rest of the months, the proportion rises to 65%    \nI split the code up into a few parts and I’m hoping the database rewrites are easy to follow. This analysis shows that ‘less severe’ weather delays have occurance than ‘severe’ weather.\n\n\nShow the code\n# Include and execute your code here\n\n\ndf = df.replace(['n/a','unknown','',-999],np.nan)\ndf = df.replace(['1500+'],1500)\ndf['num_of_delays_carrier'] = df['num_of_delays_carrier'].astype(int)\n\n# Create dfweather and clean it\ndfweather = df.copy()\ndfweather = dfweather.dropna(subset=['month','num_of_delays_late_aircraft','minutes_delayed_nas','year','minutes_delayed_carrier','minutes_delayed_nas'])\n\n\n\n\nShow the code\n# Include and execute your code here\n\n# Weather calculations\ndfweather['weather_severe'] = dfweather['num_of_delays_weather']\nlate_aircraft_mean = dfweather['num_of_delays_late_aircraft'].mean()\ndfweather['num_of_delays_late_aircraft'] = dfweather['num_of_delays_late_aircraft'].fillna(late_aircraft_mean)\ndfweather['weather_late_aircraft'] = dfweather['num_of_delays_late_aircraft'] * 0.30\n\n\n\n\nShow the code\n# Include and execute your code here\n# 3. NAS weather delays (40% Apr-Aug, 65% other months)\n# NAS weather calculation\ndfweather['weather_nas'] = dfweather.apply(\n    lambda x: x['num_of_delays_nas'] * 0.40 if x['month'] in [4, 5, 6, 7, 8]\n    else x['num_of_delays_nas'] * 0.65,\n    axis=1\n)\n\n# Total weather delays\ndfweather['total_weather_delays'] = dfweather['weather_severe'] + dfweather['weather_late_aircraft'] + dfweather['weather_nas']\n\nprint(dfweather[['month', 'weather_severe', 'weather_late_aircraft', 'weather_nas', 'total_weather_delays']].head())\n\ndf.iloc[0:1, ].to_json\n\n\n     month  weather_severe  weather_late_aircraft  weather_nas  \\\n1  January             233                  278.4       607.75   \n3  January             306                  676.5      3519.75   \n4  January              56                  204.0       414.70   \n5  January             114                  219.9       757.90   \n6  January             270                  169.2       561.60   \n\n   total_weather_delays  \n1               1119.15  \n3               4502.25  \n4                674.70  \n5               1091.80  \n6               1000.80  \n\n\n&lt;bound method NDFrame.to_json of   airport_code                                       airport_name    month  \\\n0          ATL  Atlanta, GA: Hartsfield-Jackson Atlanta Intern...  January   \n\n     year  num_of_flights_total  num_of_delays_carrier  \\\n0  2005.0                 35048                   1500   \n\n   num_of_delays_late_aircraft  num_of_delays_nas  num_of_delays_security  \\\n0                          NaN               4598                      10   \n\n   num_of_delays_weather  num_of_delays_total  minutes_delayed_carrier  \\\n0                    448                 8355                 116423.0   \n\n   minutes_delayed_late_aircraft  minutes_delayed_nas  \\\n0                         104415             207467.0   \n\n   minutes_delayed_security  minutes_delayed_weather  minutes_delayed_total  \n0                       297                    36931                 465533  &gt;"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html#questiontask-5",
-    "href": "Cleansing_Exploration/project3.html#questiontask-5",
-    "title": "Client Report - [Late Flights and Missing Data]",
-    "section": "QUESTION|TASK 5",
-    "text": "QUESTION|TASK 5\nUsing the new weather variable calculated above, create a barplot showing the proportion of all flights that are delayed by weather at each airport. Describe what you learn from this graph.\nWe can see that SFO once again has pretty bad delays, now we can see how those delays are played by weather.\n\n\nShow the code\n# Include and execute your code here\n# Calculate the proportion of weather delays per airport\nfrom lets_plot import *\nLetsPlot.setup_html()\n\n\nairport_sum = dfweather.groupby('airport_code').agg({\n    'total_weather_delays': 'sum',\n    'num_of_flights_total': 'sum'\n}).reset_index()\n\n\nairport_sum['weather_delay_ratio'] = (airport_sum['total_weather_delays'] / airport_sum['num_of_flights_total']) * 100\n\nairport_sum = airport_sum.sort_values('weather_delay_ratio', ascending=True)\n\n\n\nchart = (ggplot(data=airport_sum)\n    + aes(x='weather_delay_ratio', y='airport_code')  \n    + geom_bar(stat='identity', fill='#87CEEB', width=0.7)  # Use hex color code\n    + ggtitle('Weather Delay Proportion by Airport')\n    + xlab('Percentage of Flights Delayed by Weather')\n    + ylab('Airport Code')\n)\nchart.show()"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html#stretch-questiontask-1",
-    "href": "Cleansing_Exploration/project3.html#stretch-questiontask-1",
-    "title": "Client Report - [Late Flights and Missing Data]",
-    "section": "STRETCH QUESTION|TASK 1",
-    "text": "STRETCH QUESTION|TASK 1\nWhich delay is the worst delay? Create a similar analysis as above for Weahter Delay with: Carrier Delay and Security Delay. Compare the proportion of delay for each of the three categories in a Chart and a Table. Describe your results.\ntype your results and analysis here\n\n\nShow the code\n# Include and execute your code here\n\n\n\n\n\nShow the code\n#\n## Read in libraries\n#import pandas as pd\n#import numpy as np\n#from lets_plot import *\n#LetsPlot.setup_html(isolated_frame=True)\n#df = pd.read_json(\"https://github.com/byuidatascience/data4missing/raw/master/data-raw/flights_missing/flights_missing.json\")\n#df['month'].value_counts()['n/a']\n#df.isna().sum()\n#pd.crosstab()\n\n\n\n\nShow the code\n# Read in libraries\nimport pandas as pd\nimport numpy as np\nfrom lets_plot import *\nLetsPlot.setup_html(isolated_frame=True)\nfrom sklearn.model_selection import train_test_split\nfrom sklearn import metrics\n\n# Read the data\ndf = pd.read_csv(\"https://github.com/byuidatascience/data4dwellings/raw/master/data-raw/dwellings_ml/dwellings_ml.csv\")\n\n# For this dataset, we'll use 'before1980' as the target column\nX = df.drop(columns=['before1980'])  \ny = df['before1980']\n\n# Split the data with specified parameters\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.34, random_state=76)\n\n# Calculate average of first 10 test values\naverage_first_10 = y_test[:10].mean()\nprint(\"Average of the first 10 values in testing y:\", average_first_10)\n\n# Calculate average of first 10 training X values for the selling price 'sprice'\naverage_first_10_sprice = X_train['sprice'][:10].mean()\nprint(\"Average of the first 10 values in training X for sprice:\", average_first_10_sprice)\n\n\nAverage of the first 10 values in testing y: 0.4\nAverage of the first 10 values in training X for sprice: 2131970.0"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Whats in a Name?]",
-    "section": "",
-    "text": "Show the code\nimport pandas as pd\nimport numpy as np\nfrom lets_plot import *\n\nLetsPlot.setup_html(isolated_frame=True)"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html#project-notes",
-    "href": "Cleansing_Exploration/project1.html#project-notes",
-    "title": "Client Report - [Whats in a Name?]",
-    "section": "Project Notes",
-    "text": "Project Notes\nFor Project 1 the answer to each question should include a chart and a written response. The years labels on your charts should not include a comma. At least two of your charts must include reference marks.\n\n\nShow the code\n# Learn morea about Code Cells: https://quarto.org/docs/reference/cells/cells-jupyter.html\n\n# Include and execute your code here\ndf = pd.read_csv(\"https://github.com/byuidatascience/data4names/raw/master/data-raw/names_year/names_year.csv\")"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html#questiontask-1-usa-life-expectancy",
-    "href": "Cleansing_Exploration/project1.html#questiontask-1-usa-life-expectancy",
-    "title": "Client Report - [Whats in a Name?]",
-    "section": "QUESTION|TASK 1 USA life expectancy",
-    "text": "QUESTION|TASK 1 USA life expectancy\nHow does your name at your birth year compare to its use historically?\nLooks like my name was increasing in popularity until its peak in 2006 and 2000 rode that wave. Since 2006 it has decreased in popularity.\n\n\nShow the code\n# Include and execute your code here\n\n\nmiguel_data = df.query('name == \"Miguel\"')\n\n(ggplot(data=miguel_data, mapping=aes(x='year', y='Total')) +\n    geom_line(color='blue') +\n    geom_point(color='blue')+\n    geom_vline(xintercept=2000,color='red',linetype='dashed')+\n    geom_text(x=1980,y=3917,label = \"Year I Was Born --&gt;\") +\n    labs(\n      title='Popularity of the Name Miguel Over Time',\n      x='Year',\n      y='Babies Named Miguel'\n    )+\n    scale_x_continuous(format=\"d\")\n).show()\n\n\n\n\n### Looks like my name was increasing in popularity until its peak in 2006 and 2000 rode that wave. Since 2006 it has decreased in popularity."
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html#questiontask-2",
-    "href": "Cleansing_Exploration/project1.html#questiontask-2",
-    "title": "Client Report - [Whats in a Name?]",
-    "section": "QUESTION|TASK 2",
-    "text": "QUESTION|TASK 2\nIf you talked to someone named Brittany on the phone, what is your guess of his or her age? What ages would you not guess?\nIf I was talking to a person named Brittany on the phone I would guess their age to be around 33-37. I would not guess their age to be greater or less than that.\n\n\nShow the code\n# Include and execute your code here\n\nbrittany_data = df.query('name == \"Brittany\"')\n\n(ggplot(data=brittany_data, mapping=aes(x='year', y='Total')) +\n    geom_line(color='blue') +\n    geom_point(color='blue')+\n    \n    labs(\n      title='Popularity of the name Brittany Over Time',\n      x='Year',\n      y='Babies Named Brittany'\n    )+\n    scale_x_continuous(format=\"d\")\n\n).show()\n\n### If I was talking to a person named Brittany on the phone I would guess their age to be around 33-37. I would not guess their age to be greater or less than that."
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html#questiontask-3",
-    "href": "Cleansing_Exploration/project1.html#questiontask-3",
-    "title": "Client Report - [Whats in a Name?]",
-    "section": "QUESTION|TASK 3",
-    "text": "QUESTION|TASK 3\nMary, Martha, Peter, and Paul are all Christian names. From 1920 - 2000, compare the name usage of each of the four names in a single chart. What trends do you notice?\nMary was an extremely popular name before 2000, more than the others. This makes sense knowing christianity was the predominate religion in the USA, perhaps we see this popularity due to Catholicism and their adoration for Mary. An observation presented in class was the Ku Klux Klan reemergence in the 1920s, which resulted in anti-immagration, anti-Catholocism and anti-Semitism. That could have caused the decline we see from ~1920-1936.\n\n\nShow the code\n# Include and execute your code here\nchristian_names = df.query('name in [\"Mary\",\"Martha\",\"Peter\", \"Paul\"] ')\n\n(ggplot(data=christian_names, mapping=aes(x='year', y='Total',color = 'name')) +\n    geom_line(color='grey') +\n    geom_point(size=3) +\n    \n    \n    labs(\n      title='Popularity of Biblical Names Over Time',\n      x='Year',\n      y='Babies Named',\n      color = 'Name'\n    )+\n    scale_x_continuous(format=\"d\")+\n    xlim(1920,2000)\n\n).show()\n\n### Mary was an extremely popular name before 2000, more than the others. This makes sense knowing christianity was the predominate religion in the world, perhaps we see this popularity due to Catholicism and their adoration for Mary."
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html#questiontask-4",
-    "href": "Cleansing_Exploration/project1.html#questiontask-4",
-    "title": "Client Report - [Whats in a Name?]",
-    "section": "QUESTION|TASK 4",
-    "text": "QUESTION|TASK 4\nThink of a unique name from a famous movie. Plot the usage of that name and see how changes line up with the movie release. Does it look like the movie had an effect on usage?\nNoting when the first Star Wars movies were released we can make some inferences on how the popularity of the name Luke came to be. We can see slight jumps after the release of A New Hope in 1977 but nothing super significant. We can note the same after Return of the Jedi in 1983. What could be an explanation of the spike in popularity from 1995 and on is that the young people who grew up watching Star Wars could have named their kid(s) Luke when they started having children a few years after the first release.\n\n\nShow the code\nluke_data = df.query('name ==\"Luke\"')\n\n(ggplot(data=luke_data, \n        mapping=aes(x='year', y='Total')) + \n    geom_line() + \n    geom_point(size=3) +\n    scale_x_continuous(format=\"d\") +\n    geom_vline(xintercept=1977,color='red',linetype='dashed')+\n    geom_text(x=1957, y = 6000, label = 'A New Hope Released')+\n    geom_vline(xintercept=1983,color='green',linetype='dashed')+ \n    geom_text(x=2000, y = 900, label = 'Return of Jedi Released')+\n\n    labs(\n        title='A New Hope(ful name)',\n        x='Year',\n        y='Number of Babies Named Luke',\n        color='Name'\n    )\n).show()\n\n### For Luke, it does appear that the movie influenced the popularity of the name. It appears that the name might have become that much popular when the generation who grew up with Star Wars had children instead of immediately after the first movie was released. I tried to see if the names from Disney's Frozen had any popularity increase after 2013 but they only increased slightly."
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html#stretch-questiontask-1",
-    "href": "Cleansing_Exploration/project1.html#stretch-questiontask-1",
-    "title": "Client Report - [Whats in a Name?]",
-    "section": "STRETCH QUESTION|TASK 1",
-    "text": "STRETCH QUESTION|TASK 1\nReproduce the chart Elliot using the data from the names_year.csv file.\ntype your results and analysis here\n\n\nShow the code\n# Include and execute your code here\n\nElliot_data = df.query('name ==\"Elliot\"')\n\n(ggplot(data= Elliot_data,\n    mapping = aes(x='year',y='Total',color='name'))+\n    geom_line()+  # Remove the fixed color here to let the aesthetic work\n    geom_vline(xintercept = 1982,color='red',linetype = 'dashed')+\n    geom_vline(xintercept = 2002,color='red',linetype = 'dashed')+\n    geom_vline(xintercept = 1985,color='red',linetype = 'dashed')+\n    geom_text(x=1972,y=1200,label = \"First Release\",color='black')+\n    geom_text(x=1995,y=1200,label = \"Second Release\",color='black')+\n    geom_text(x=2012,y=1200,label = \"Third Release\",color='black')+\n    scale_x_continuous(format='d')+\n    xlim(1950,2025)+\n    labs(\n      title = 'Elliot... What?',\n      x='Year',\n      y='Total',\n      color= 'Name'\n    ) +\n    theme(legend_position = 'right')+\n    scale_color_manual(values=['#800080'])\n)"
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
     "objectID": "Cleansing_Exploration/project2.html",
     "href": "Cleansing_Exploration/project2.html",
     "title": "Client Report - [Finding Relationships in Baseball]",
     "section": "",
     "text": "Back to top"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html",
-    "href": "Cleansing_Exploration/project4.html",
-    "title": "Client Report - [Can You Predict That?]",
-    "section": "",
-    "text": "Show the code\nimport pandas as pd \nimport numpy as np\nfrom lets_plot import *\nLetsPlot.setup_html(isolated_frame=True)\n\nimport matplotlib.pyplot as plt\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.metrics import classification_report\nfrom sklearn.tree import DecisionTreeClassifier\nfrom sklearn.ensemble import RandomForestClassifier\n# add the additional libraries you need to import for ML here\n\nLetsPlot.setup_html(isolated_frame=True)\nShow the code\n# Include and execute your code here\n\n# import your data here using pandas and the URL\ndf4 = pd.read_csv('https://raw.githubusercontent.com/byuidatascience/data4dwellings/master/data-raw/dwellings_ml/dwellings_ml.csv')\ndf4_maybe = pd.read_csv('https://raw.githubusercontent.com/byuidatascience/data4dwellings/master/data-raw/dwellings_neighborhoods_ml/dwellings_neighborhoods_ml.csv')\n#df4"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html#elevator-pitch",
-    "href": "Cleansing_Exploration/project4.html#elevator-pitch",
-    "title": "Client Report - [Can You Predict That?]",
-    "section": "Elevator pitch",
-    "text": "Elevator pitch\nA SHORT (2-3 SENTENCES) PARAGRAPH THAT DESCRIBES KEY INSIGHTS TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS. (Note: this is not a summary of the project, but a summary of the results.)\nThere is a good chance that we can predict aspestus issues with a home. Based on machine learning models we can show wether a home is built in certain ways indicating build procedure."
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html#questiontask-1",
-    "href": "Cleansing_Exploration/project4.html#questiontask-1",
-    "title": "Client Report - [Can You Predict That?]",
-    "section": "QUESTION|TASK 1",
-    "text": "QUESTION|TASK 1\nCreate 2-3 charts that evaluate potential relationships between the home variables and before1980. Explain what you learn from the charts that could help a machine learning algorithm.\nI decided to find some charts that would show contrast from year to year or in the case of the scatterplot, variety of datapoints that would need further interpretation. For the bar graphs showing quality of homes, we can conclude that there is a stark difference between whether the home was built before or after 1980.\n\n\nShow the code\n# Include and execute your code here\n#for quality: count freq of avg, excellent,fair before/after 1980\n# for letsplot: +coord_catesian(ylim = [min,max])\n#xscale_y_continuous(limits)\n#geom_freqpoly()\nimport seaborn as sns\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(10,6))\nsns.boxplot(x='before1980', y='basement', data=df4)\nplt.title('Finished Basement Distribution by Age Group')\n\n\n\nplt.show()\n\n\n\n\n\n\n\n\n\n\n\nShow the code\nsns.scatterplot(data=df4, x='livearea', y='basement', hue='before1980')\n\nplt.show\n\n\n\n\n\n\n\n\n\n\n\nShow the code\n(ggplot(df4,aes(x='condition_AVG'))+geom_bar()).show()\n(ggplot(df4,aes(x='condition_Excel'))+geom_bar()).show()\n(ggplot(df4,aes(x='condition_Fair'))+geom_bar()).show()"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html#questiontask-2",
-    "href": "Cleansing_Exploration/project4.html#questiontask-2",
-    "title": "Client Report - [Can You Predict That?]",
-    "section": "QUESTION|TASK 2",
-    "text": "QUESTION|TASK 2\nBuild a classification model labeling houses as being built “before 1980” or “during or after 1980”. Your goal is to reach or exceed 90% accuracy. Explain your final model choice (algorithm, tuning parameters, etc) and describe what other models you tried.\nThe first issue that was needed was to drop some columns that did not aid in the discussion of asbestos problems. Columns ‘parcel’ or ‘abstrprd’ did not appear to have any meaningful value. We test and train the model based on ‘before 1980’.\n\n\nShow the code\n# Include and execute your code here\n\nX = df4.drop(columns=['parcel','abstrprd','yrbuilt','before1980'])  \ny = df4['before1980'] \n\nX_train, X_test, Y_train, Y_test = train_test_split(\n    X, y, test_size=0.2, random_state=42)\n\nprint(X_train.shape, Y_train.shape)\nprint(X_test.shape, Y_test.shape)\n\n\n(18330, 47) (18330,)\n(4583, 47) (4583,)\n\n\n\n\nShow the code\ntest = RandomForestClassifier(n_estimators=400,criterion = 'gini')\ntest.fit(X_train, Y_train) \n\nprediction = test.predict(X_test)\nfrom sklearn.metrics import classification_report\n\nprint(classification_report(Y_test, prediction))\n\n\n              precision    recall  f1-score   support\n\n           0       0.91      0.90      0.90      1710\n           1       0.94      0.95      0.94      2873\n\n    accuracy                           0.93      4583\n   macro avg       0.93      0.92      0.92      4583\nweighted avg       0.93      0.93      0.93      4583"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html#questiontask-3",
-    "href": "Cleansing_Exploration/project4.html#questiontask-3",
-    "title": "Client Report - [Can You Predict That?]",
-    "section": "QUESTION|TASK 3",
-    "text": "QUESTION|TASK 3\nJustify your classification model by discussing the most important features selected by your model. This discussion should include a feature importance chart and a description of the features.\nThis data show the importance to the learning model for predicting the year that the homes were built. Displayed are the most important features of the home. Livearea, arechetecture style, bathrooms, stories are very important in this determination. This was able to be determined in the model.\n\n\nShow the code\n# Include and execute your code here\ntest_importances = test.feature_importances_\nimportance_df = pd.DataFrame({\n    'Feature': X_train.columns,\n    'Importance': test_importances\n}).sort_values(by='Importance', ascending=False)\nimportance_df\n\ntop_5_features = importance_df.head(5)\n\nprint(top_5_features.head())\nplt.figure(figsize=(8, 5))\nplt.bar(top_5_features['Feature'], top_5_features['Importance'])\nplt.xticks(rotation=45, ha='right')\nplt.title('Top 5 Feature Importance')\nplt.tight_layout()\nplt.show()\n\n\n               Feature  Importance\n0             livearea    0.093933\n36  arcstyle_ONE-STORY    0.087108\n4              stories    0.070706\n7             numbaths    0.067606\n10            netprice    0.060416"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html#questiontask-4",
-    "href": "Cleansing_Exploration/project4.html#questiontask-4",
-    "title": "Client Report - [Can You Predict That?]",
-    "section": "QUESTION|TASK 4",
-    "text": "QUESTION|TASK 4\nDescribe the quality of your classification model using 2-3 different evaluation metrics. You also need to explain how to interpret each of the evaluation metrics you use.\nFrom the scores we see this model the precision, accuracy, and f1 are notable. Looing at the F1 score we see that the model has good precision and recall, meaning that this learning model can correctly identify homes built before 1980 to a high degree. Accuracy is the proporiton of correct predictions: this model can mostly predict correctly.\n\n\nShow the code\n# Include and execute your code here\nprediction = test.predict(X_test)\nfrom sklearn.metrics import classification_report\nprint('Classification report for RandomForest')\nprint(classification_report(Y_test, prediction))\n\n\nClassification report for RandomForest\n              precision    recall  f1-score   support\n\n           0       0.91      0.90      0.90      1710\n           1       0.94      0.95      0.94      2873\n\n    accuracy                           0.93      4583\n   macro avg       0.93      0.92      0.92      4583\nweighted avg       0.93      0.93      0.93      4583"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html#stretch-questiontask-1",
-    "href": "Cleansing_Exploration/project4.html#stretch-questiontask-1",
-    "title": "Client Report - [Can You Predict That?]",
-    "section": "STRETCH QUESTION|TASK 1",
-    "text": "STRETCH QUESTION|TASK 1\nRepeat the classification model using 3 different algorithms. Display their Feature Importance, and Decision Matrix. Explian the differences between the models and which one you would recommend to the Client.\nI decided to try some linear regression. I’m not sure how good this data set would be. I saw it as an option so I decided to see how it would go. Looks like the f1 scores, precision, and accuracy don’t quite reach 0.9. Maybe the random forest was a better method.\n\n\nShow the code\n# Include and execute your code here\n\nfrom sklearn.linear_model import LogisticRegression\n\nx = df4.drop(columns=['parcel','abstrprd','yrbuilt','before1980'])  \ny = df4['before1980'] \n\nx_train, x_test, y_train, y_test = train_test_split(\n    x, y, test_size=0.2, random_state=42)\n\nprint(x_train.shape, y_train.shape)\nprint(x_test.shape, y_test.shape)\n\nlogreg = LogisticRegression(max_iter=1500\n, random_state=42)\nlogreg.fit(x_train, y_train) \n\nprediction = logreg.predict(x_test)\nfrom sklearn.metrics import classification_report\nprint('Linear regression data')\nprint(classification_report(y_test, prediction))\n\n\n(18330, 47) (18330,)\n(4583, 47) (4583,)\nLinear regression data\n              precision    recall  f1-score   support\n\n           0       0.83      0.81      0.82      1710\n           1       0.89      0.90      0.90      2873\n\n    accuracy                           0.87      4583\n   macro avg       0.86      0.86      0.86      4583\nweighted avg       0.87      0.87      0.87      4583"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html#stretch-questiontask-2",
-    "href": "Cleansing_Exploration/project4.html#stretch-questiontask-2",
-    "title": "Client Report - [Can You Predict That?]",
-    "section": "STRETCH QUESTION|TASK 2",
-    "text": "STRETCH QUESTION|TASK 2\nJoin the dwellings_neighborhoods_ml.csv data to the dwelling_ml.csv on the parcel column to create a new dataset. Duplicate the code for the stretch question above and update it to use this data. Explain the differences and if this changes the model you recomend to the Client.\nLinear regression still wasn’t showing the conclusions we needed but for the classifiers RandomForest and DecisionTree we can see a high f1 score, higher than the previous test before combining the data bases. This show how machine learning is powerful with more data.\n\n\nShow the code\n# Include and execute your code here\n# Join the datasets on the parcel column\ncombined_df = pd.merge(df4, df4_maybe, on='parcel', how='inner')\n\n\nprint(f\"Original dwellings_ml shape: {df4.shape}\")\nprint(f\"Original neighborhoods_ml shape: {df4_maybe.shape}\")\nprint(f\"Combined dataset shape: {combined_df.shape}\")\n\n\n\nX_combined = combined_df.drop(columns=['parcel', 'abstrprd', 'yrbuilt', 'before1980'])\ny_combined = combined_df['before1980']\n\n\nX_train_c, X_test_c, y_train_c, y_test_c = train_test_split(\n    X_combined, y_combined, test_size=0.2, random_state=42)\n\nprint(f\"Training data shape: {X_train_c.shape}\")\nprint(f\"Testing data shape: {X_test_c.shape}\")\n\n\nrf_model = RandomForestClassifier(n_estimators=400, criterion='gini', random_state=42)\nrf_model.fit(X_train_c, y_train_c)\nrf_pred = rf_model.predict(X_test_c)\n\n\nlogreg_model = LogisticRegression(max_iter=1000, random_state=42)\nlogreg_model.fit(X_train_c, y_train_c)\nlogreg_pred = logreg_model.predict(X_test_c)\n\n\ndt_model = DecisionTreeClassifier(random_state=42)\ndt_model.fit(X_train_c, y_train_c)\ndt_pred = dt_model.predict(X_test_c)\n\n\nprint(\"Random Forest with combined data:\")\nprint(classification_report(y_test_c, rf_pred))\n\nprint(\"\\nLogistic Regression with combined data:\")\nprint(classification_report(y_test_c, logreg_pred))\n\nprint(\"\\nDecision Tree with combined data:\")\nprint(classification_report(y_test_c, dt_pred))\n\n\nOriginal dwellings_ml shape: (22913, 51)\nOriginal neighborhoods_ml shape: (22913, 274)\nCombined dataset shape: (27961, 324)\nTraining data shape: (22368, 320)\nTesting data shape: (5593, 320)\n\n\nRandom Forest with combined data:\n              precision    recall  f1-score   support\n\n           0       0.96      0.96      0.96      2138\n           1       0.97      0.98      0.97      3455\n\n    accuracy                           0.97      5593\n   macro avg       0.97      0.97      0.97      5593\nweighted avg       0.97      0.97      0.97      5593\n\n\nLogistic Regression with combined data:\n              precision    recall  f1-score   support\n\n           0       0.85      0.82      0.84      2138\n           1       0.89      0.91      0.90      3455\n\n    accuracy                           0.88      5593\n   macro avg       0.87      0.87      0.87      5593\nweighted avg       0.88      0.88      0.88      5593\n\n\nDecision Tree with combined data:\n              precision    recall  f1-score   support\n\n           0       0.95      0.95      0.95      2138\n           1       0.97      0.97      0.97      3455\n\n    accuracy                           0.96      5593\n   macro avg       0.96      0.96      0.96      5593\nweighted avg       0.96      0.96      0.96      5593"
-  },
-  {
-    "objectID": "Cleansing_Exploration/project4.html#stretch-questiontask-3",
-    "href": "Cleansing_Exploration/project4.html#stretch-questiontask-3",
-    "title": "Client Report - [Can You Predict That?]",
-    "section": "STRETCH QUESTION|TASK 3",
-    "text": "STRETCH QUESTION|TASK 3\nCan you build a model that predicts the year a house was built? Explain the model and the evaluation metrics you would use to determine if the model is good.\nI’m hoping this code makes sense.I found a linear regression model that could work for our purposes here. I’m hoping that setting the ‘yrbuilt’ column will test to parameterize the years, I’m hoping the model can pick up patterns. This code takes much longer to run. I’m skeptical if the model worked well because I have an Rsquared score of 1…which should not be possible. CORRECTION: I forgot to drop the yrbuilt column in the training. This model is only OKAY. It has a higher r2 score of 0.78 but we cannot give a solid confidence if being able to predict the year built can be based on this model.\n\n\nShow the code\nfrom sklearn.ensemble import RandomForestRegressor\nfrom sklearn.linear_model import LinearRegression\nfrom sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score\n\nX_reg = df4.drop(columns=['parcel', 'abstrprd','yrbuilt', 'before1980'])\ny_reg = df4['yrbuilt']\n\n\nX_train_reg, X_test_reg, y_train_reg, y_test_reg = train_test_split(\n    X_reg, y_reg, test_size=0.2, random_state=42)\n\n\nrf_reg = RandomForestRegressor(n_estimators=200, random_state=42)\nrf_reg.fit(X_train_reg, y_train_reg)\n\n\nrf_reg_pred = rf_reg.predict(X_test_reg)\n\n\nrf_mse = mean_squared_error(y_test_reg, rf_reg_pred)\nrf_rmse = np.sqrt(rf_mse)\nrf_mae = mean_absolute_error(y_test_reg, rf_reg_pred)\nrf_r2 = r2_score(y_test_reg, rf_reg_pred)\n\nprint(f\"Random Forest Regression Results:\")\nprint(f\"Mean Squared Error: {rf_mse:.2f}\")\nprint(f\"Root Mean Squared Error: {rf_rmse:.2f} years\")\nprint(f\"Mean Absolute Error: {rf_mae:.2f} years\")\nprint(f\"R² Score: {rf_r2:.4f}\")\n\n\nRandom Forest Regression Results:\nMean Squared Error: 288.90\nRoot Mean Squared Error: 17.00 years\nMean Absolute Error: 10.34 years\nR² Score: 0.7877\n\n\n\n\n\nShow the code\n#Predict number instead of category"
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 1"
-    ]
   },
   {
     "objectID": "Cleansing_Projects/project3.html",
@@ -514,13 +548,35 @@
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project5.html",
-    "href": "Cleansing_Projects/project5.html",
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
       "Project 5"
     ]
   },
@@ -536,123 +592,14 @@
     ]
   },
   {
-    "objectID": "Competition/project4.html",
-    "href": "Competition/project4.html",
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Competition",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
+      "Story Telling",
       "Project 3"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
     ]
   },
   {
@@ -667,25 +614,85 @@
     ]
   },
   {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Story Telling",
-      "Project 3"
+      "Project 4"
     ]
   },
   {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
+    "objectID": "cleansing_exploration.html",
+    "href": "cleansing_exploration.html",
+    "title": "Miguel Smith - Data Science Portfolio",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+  },
+  {
+    "objectID": "resume.html#awards",
+    "href": "resume.html#awards",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+  },
+  {
+    "objectID": "resume.html#publications",
+    "href": "resume.html#publications",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+  },
+  {
+    "objectID": "resume.html#occupation",
+    "href": "resume.html#occupation",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
+      "Machine Learning",
       "Project 5"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
     ]
   }
 ]
