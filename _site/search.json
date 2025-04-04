@@ -214,9 +214,9 @@
   {
     "objectID": "Cleansing_Projects/project4.html",
     "href": "Cleansing_Projects/project4.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Client Report - [Can You Predict That?]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Show the code\nimport pandas as pd \nimport numpy as np\nfrom lets_plot import *\nLetsPlot.setup_html(isolated_frame=True)\n\nimport matplotlib.pyplot as plt\n\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.metrics import classification_report\nfrom sklearn.tree import DecisionTreeClassifier\nfrom sklearn.ensemble import RandomForestClassifier\n# add the additional libraries you need to import for ML here\n\nLetsPlot.setup_html(isolated_frame=True)\nShow the code\n# Include and execute your code here\n\n# import your data here using pandas and the URL\ndf4 = pd.read_csv('https://raw.githubusercontent.com/byuidatascience/data4dwellings/master/data-raw/dwellings_ml/dwellings_ml.csv')\ndf4_maybe = pd.read_csv('https://raw.githubusercontent.com/byuidatascience/data4dwellings/master/data-raw/dwellings_neighborhoods_ml/dwellings_neighborhoods_ml.csv')\n#df4",
     "crumbs": [
       "Data Cleansing",
       "Project 4"
@@ -225,9 +225,9 @@
   {
     "objectID": "Cleansing_Projects/project2.html",
     "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Client Report - [Finding Relationships in Baseball]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Back to top",
     "crumbs": [
       "Data Cleansing",
       "Project 2"
@@ -523,9 +523,9 @@
   {
     "objectID": "Cleansing_Projects/project5.html",
     "href": "Cleansing_Projects/project5.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Client Report - [The War With Star Wars]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "Show the code\nimport pandas as pd \nimport numpy as np\nimport csv\nfrom lets_plot import *\n# add the additional libraries you need to import for ML here\n\nLetsPlot.setup_html(isolated_frame=True)",
     "crumbs": [
       "Data Cleansing",
       "Project 5"
@@ -692,6 +692,182 @@
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Story Telling",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html#elevator-pitch",
+    "href": "Cleansing_Projects/project4.html#elevator-pitch",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "Elevator pitch",
+    "text": "Elevator pitch\nA SHORT (2-3 SENTENCES) PARAGRAPH THAT DESCRIBES KEY INSIGHTS TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS. (Note: this is not a summary of the project, but a summary of the results.)\nThere is a good chance that we can predict aspestus issues with a home. Based on machine learning models we can show wether a home is built in certain ways indicating build procedure.",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html#questiontask-1",
+    "href": "Cleansing_Projects/project4.html#questiontask-1",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "QUESTION|TASK 1",
+    "text": "QUESTION|TASK 1\nCreate 2-3 charts that evaluate potential relationships between the home variables and before1980. Explain what you learn from the charts that could help a machine learning algorithm.\nI decided to find some charts that would show contrast from year to year or in the case of the scatterplot, variety of datapoints that would need further interpretation. For the bar graphs showing quality of homes, we can conclude that there is a stark difference between whether the home was built before or after 1980.\n\n\nShow the code\n# Include and execute your code here\n#for quality: count freq of avg, excellent,fair before/after 1980\n# for letsplot: +coord_catesian(ylim = [min,max])\n#xscale_y_continuous(limits)\n#geom_freqpoly()\nimport seaborn as sns\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(10,6))\nsns.boxplot(x='before1980', y='basement', data=df4)\nplt.title('Finished Basement Distribution by Age Group')\n\n\n\nplt.show()\n\n\n\n\n\n\n\n\n\n\n\nShow the code\nsns.scatterplot(data=df4, x='livearea', y='basement', hue='before1980')\n\nplt.show\n\n\n\n\n\n\n\n\n\n\n\nShow the code\n(ggplot(df4,aes(x='condition_AVG'))+geom_bar()).show()\n(ggplot(df4,aes(x='condition_Excel'))+geom_bar()).show()\n(ggplot(df4,aes(x='condition_Fair'))+geom_bar()).show()",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html#questiontask-2",
+    "href": "Cleansing_Projects/project4.html#questiontask-2",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "QUESTION|TASK 2",
+    "text": "QUESTION|TASK 2\nBuild a classification model labeling houses as being built “before 1980” or “during or after 1980”. Your goal is to reach or exceed 90% accuracy. Explain your final model choice (algorithm, tuning parameters, etc) and describe what other models you tried.\nThe first issue that was needed was to drop some columns that did not aid in the discussion of asbestos problems. Columns ‘parcel’ or ‘abstrprd’ did not appear to have any meaningful value. We test and train the model based on ‘before 1980’.\n\n\nShow the code\n# Include and execute your code here\n\nX = df4.drop(columns=['parcel','abstrprd','yrbuilt','before1980'])  \ny = df4['before1980'] \n\nX_train, X_test, Y_train, Y_test = train_test_split(\n    X, y, test_size=0.2, random_state=42)\n\nprint(X_train.shape, Y_train.shape)\nprint(X_test.shape, Y_test.shape)\n\n\n(18330, 47) (18330,)\n(4583, 47) (4583,)\n\n\n\n\nShow the code\ntest = RandomForestClassifier(n_estimators=400,criterion = 'gini')\ntest.fit(X_train, Y_train) \n\nprediction = test.predict(X_test)\nfrom sklearn.metrics import classification_report\n\nprint(classification_report(Y_test, prediction))\n\n\n              precision    recall  f1-score   support\n\n           0       0.91      0.90      0.90      1710\n           1       0.94      0.95      0.94      2873\n\n    accuracy                           0.93      4583\n   macro avg       0.93      0.92      0.92      4583\nweighted avg       0.93      0.93      0.93      4583",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html#questiontask-3",
+    "href": "Cleansing_Projects/project4.html#questiontask-3",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "QUESTION|TASK 3",
+    "text": "QUESTION|TASK 3\nJustify your classification model by discussing the most important features selected by your model. This discussion should include a feature importance chart and a description of the features.\nThis data show the importance to the learning model for predicting the year that the homes were built. Displayed are the most important features of the home. Livearea, arechetecture style, bathrooms, stories are very important in this determination. This was able to be determined in the model.\n\n\nShow the code\n# Include and execute your code here\ntest_importances = test.feature_importances_\nimportance_df = pd.DataFrame({\n    'Feature': X_train.columns,\n    'Importance': test_importances\n}).sort_values(by='Importance', ascending=False)\nimportance_df\n\ntop_5_features = importance_df.head(5)\n\nprint(top_5_features.head())\nplt.figure(figsize=(8, 5))\nplt.bar(top_5_features['Feature'], top_5_features['Importance'])\nplt.xticks(rotation=45, ha='right')\nplt.title('Top 5 Feature Importance')\nplt.tight_layout()\nplt.show()\n\n\n               Feature  Importance\n0             livearea    0.094702\n36  arcstyle_ONE-STORY    0.073360\n4              stories    0.072283\n7             numbaths    0.069328\n11                tasp    0.060772",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html#questiontask-4",
+    "href": "Cleansing_Projects/project4.html#questiontask-4",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "QUESTION|TASK 4",
+    "text": "QUESTION|TASK 4\nDescribe the quality of your classification model using 2-3 different evaluation metrics. You also need to explain how to interpret each of the evaluation metrics you use.\nFrom the scores we see this model the precision, accuracy, and f1 are notable. Looing at the F1 score we see that the model has good precision and recall, meaning that this learning model can correctly identify homes built before 1980 to a high degree. Accuracy is the proporiton of correct predictions: this model can mostly predict correctly.\n\n\nShow the code\n# Include and execute your code here\nprediction = test.predict(X_test)\nfrom sklearn.metrics import classification_report\nprint('Classification report for RandomForest')\nprint(classification_report(Y_test, prediction))\n\n\nClassification report for RandomForest\n              precision    recall  f1-score   support\n\n           0       0.91      0.90      0.90      1710\n           1       0.94      0.95      0.94      2873\n\n    accuracy                           0.93      4583\n   macro avg       0.93      0.92      0.92      4583\nweighted avg       0.93      0.93      0.93      4583",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html#stretch-questiontask-1",
+    "href": "Cleansing_Projects/project4.html#stretch-questiontask-1",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "STRETCH QUESTION|TASK 1",
+    "text": "STRETCH QUESTION|TASK 1\nRepeat the classification model using 3 different algorithms. Display their Feature Importance, and Decision Matrix. Explian the differences between the models and which one you would recommend to the Client.\nI decided to try some linear regression. I’m not sure how good this data set would be. I saw it as an option so I decided to see how it would go. Looks like the f1 scores, precision, and accuracy don’t quite reach 0.9. Maybe the random forest was a better method.\n\n\nShow the code\n# Include and execute your code here\n\nfrom sklearn.linear_model import LogisticRegression\n\nx = df4.drop(columns=['parcel','abstrprd','yrbuilt','before1980'])  \ny = df4['before1980'] \n\nx_train, x_test, y_train, y_test = train_test_split(\n    x, y, test_size=0.2, random_state=42)\n\nprint(x_train.shape, y_train.shape)\nprint(x_test.shape, y_test.shape)\n\nlogreg = LogisticRegression(max_iter=1500\n, random_state=42)\nlogreg.fit(x_train, y_train) \n\nprediction = logreg.predict(x_test)\nfrom sklearn.metrics import classification_report\nprint('Linear regression data')\nprint(classification_report(y_test, prediction))\n\n\n(18330, 47) (18330,)\n(4583, 47) (4583,)\nLinear regression data\n              precision    recall  f1-score   support\n\n           0       0.83      0.81      0.82      1710\n           1       0.89      0.90      0.90      2873\n\n    accuracy                           0.87      4583\n   macro avg       0.86      0.86      0.86      4583\nweighted avg       0.87      0.87      0.87      4583",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html#stretch-questiontask-2",
+    "href": "Cleansing_Projects/project4.html#stretch-questiontask-2",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "STRETCH QUESTION|TASK 2",
+    "text": "STRETCH QUESTION|TASK 2\nJoin the dwellings_neighborhoods_ml.csv data to the dwelling_ml.csv on the parcel column to create a new dataset. Duplicate the code for the stretch question above and update it to use this data. Explain the differences and if this changes the model you recomend to the Client.\nLinear regression still wasn’t showing the conclusions we needed but for the classifiers RandomForest and DecisionTree we can see a high f1 score, higher than the previous test before combining the data bases. This show how machine learning is powerful with more data.\n\n\nShow the code\n# Include and execute your code here\n# Join the datasets on the parcel column\ncombined_df = pd.merge(df4, df4_maybe, on='parcel', how='inner')\n\n\nprint(f\"Original dwellings_ml shape: {df4.shape}\")\nprint(f\"Original neighborhoods_ml shape: {df4_maybe.shape}\")\nprint(f\"Combined dataset shape: {combined_df.shape}\")\n\n\n\nX_combined = combined_df.drop(columns=['parcel', 'abstrprd', 'yrbuilt', 'before1980'])\ny_combined = combined_df['before1980']\n\n\nX_train_c, X_test_c, y_train_c, y_test_c = train_test_split(\n    X_combined, y_combined, test_size=0.2, random_state=42)\n\nprint(f\"Training data shape: {X_train_c.shape}\")\nprint(f\"Testing data shape: {X_test_c.shape}\")\n\n\nrf_model = RandomForestClassifier(n_estimators=400, criterion='gini', random_state=42)\nrf_model.fit(X_train_c, y_train_c)\nrf_pred = rf_model.predict(X_test_c)\n\n\nlogreg_model = LogisticRegression(max_iter=1000, random_state=42)\nlogreg_model.fit(X_train_c, y_train_c)\nlogreg_pred = logreg_model.predict(X_test_c)\n\n\ndt_model = DecisionTreeClassifier(random_state=42)\ndt_model.fit(X_train_c, y_train_c)\ndt_pred = dt_model.predict(X_test_c)\n\n\nprint(\"Random Forest with combined data:\")\nprint(classification_report(y_test_c, rf_pred))\n\nprint(\"\\nLogistic Regression with combined data:\")\nprint(classification_report(y_test_c, logreg_pred))\n\nprint(\"\\nDecision Tree with combined data:\")\nprint(classification_report(y_test_c, dt_pred))\n\n\nOriginal dwellings_ml shape: (22913, 51)\nOriginal neighborhoods_ml shape: (22913, 274)\nCombined dataset shape: (27961, 324)\nTraining data shape: (22368, 320)\nTesting data shape: (5593, 320)\n\n\nRandom Forest with combined data:\n              precision    recall  f1-score   support\n\n           0       0.96      0.96      0.96      2138\n           1       0.97      0.98      0.97      3455\n\n    accuracy                           0.97      5593\n   macro avg       0.97      0.97      0.97      5593\nweighted avg       0.97      0.97      0.97      5593\n\n\nLogistic Regression with combined data:\n              precision    recall  f1-score   support\n\n           0       0.85      0.82      0.84      2138\n           1       0.89      0.91      0.90      3455\n\n    accuracy                           0.88      5593\n   macro avg       0.87      0.87      0.87      5593\nweighted avg       0.88      0.88      0.88      5593\n\n\nDecision Tree with combined data:\n              precision    recall  f1-score   support\n\n           0       0.95      0.95      0.95      2138\n           1       0.97      0.97      0.97      3455\n\n    accuracy                           0.96      5593\n   macro avg       0.96      0.96      0.96      5593\nweighted avg       0.96      0.96      0.96      5593",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html#stretch-questiontask-3",
+    "href": "Cleansing_Projects/project4.html#stretch-questiontask-3",
+    "title": "Client Report - [Can You Predict That?]",
+    "section": "STRETCH QUESTION|TASK 3",
+    "text": "STRETCH QUESTION|TASK 3\nCan you build a model that predicts the year a house was built? Explain the model and the evaluation metrics you would use to determine if the model is good.\nI’m hoping this code makes sense.I found a linear regression model that could work for our purposes here. I’m hoping that setting the ‘yrbuilt’ column will test to parameterize the years, I’m hoping the model can pick up patterns. This code takes much longer to run. I’m skeptical if the model worked well because I have an Rsquared score of 1…which should not be possible. CORRECTION: I forgot to drop the yrbuilt column in the training. This model is only OKAY. It has a higher r2 score of 0.78 but we cannot give a solid confidence if being able to predict the year built can be based on this model.\n\n\nShow the code\nfrom sklearn.ensemble import RandomForestRegressor\nfrom sklearn.linear_model import LinearRegression\nfrom sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score\n\nX_reg = df4.drop(columns=['parcel', 'abstrprd','yrbuilt', 'before1980'])\ny_reg = df4['yrbuilt']\n\n\nX_train_reg, X_test_reg, y_train_reg, y_test_reg = train_test_split(\n    X_reg, y_reg, test_size=0.2, random_state=42)\n\n\nrf_reg = RandomForestRegressor(n_estimators=200, random_state=42)\nrf_reg.fit(X_train_reg, y_train_reg)\n\n\nrf_reg_pred = rf_reg.predict(X_test_reg)\n\n\nrf_mse = mean_squared_error(y_test_reg, rf_reg_pred)\nrf_rmse = np.sqrt(rf_mse)\nrf_mae = mean_absolute_error(y_test_reg, rf_reg_pred)\nrf_r2 = r2_score(y_test_reg, rf_reg_pred)\n\nprint(f\"Random Forest Regression Results:\")\nprint(f\"Mean Squared Error: {rf_mse:.2f}\")\nprint(f\"Root Mean Squared Error: {rf_rmse:.2f} years\")\nprint(f\"Mean Absolute Error: {rf_mae:.2f} years\")\nprint(f\"R² Score: {rf_r2:.4f}\")\n\n\nRandom Forest Regression Results:\nMean Squared Error: 288.90\nRoot Mean Squared Error: 17.00 years\nMean Absolute Error: 10.34 years\nR² Score: 0.7877\n\n\n\n\n\nShow the code\n#Predict number instead of category",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html#elevator-pitch",
+    "href": "Cleansing_Projects/project5.html#elevator-pitch",
+    "title": "Client Report - [The War With Star Wars]",
+    "section": "Elevator pitch",
+    "text": "Elevator pitch\nA SHORT (2-3 SENTENCES) PARAGRAPH THAT DESCRIBES KEY INSIGHTS TAKEN FROM METRICS IN THE PROJECT RESULTS THINK TOP OR MOST IMPORTANT RESULTS. (Note: this is not a summary of the project, but a summary of the results.)\nAfter extensive clean-up of the data, the data can now be used for machine learning purposes. The model could be used to predict the parameter of Household income of $50k+ but it is not perfect.",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html#questiontask-1",
+    "href": "Cleansing_Projects/project5.html#questiontask-1",
+    "title": "Client Report - [The War With Star Wars]",
+    "section": "QUESTION|TASK 1",
+    "text": "QUESTION|TASK 1\nShorten the column names and clean them up for easier use with pandas. Provide a table or list that exemplifies how you fixed the names.\nThe columns were very messy, changes made in the code make the data easier to wrangle and visualize. Essentially each column header was changed.\n\n\nShow the code\n# Include and execute your code here\ndf_other = pd.read_csv(\"https://github.com/fivethirtyeight/data/raw/master/star-wars-survey/StarWars.csv\", encoding_errors = \"ignore\",header = None,skiprows = 2)\n\ndf_starwars = pd.read_csv(\"https://github.com/fivethirtyeight/data/raw/master/star-wars-survey/StarWars.csv\", encoding_errors = \"ignore\", nrows=1).melt()\npd.set_option(\"display.max_columns\",None)\ndf_starwars = (\ndf_starwars.replace(\"Response\", \"\")\n       .replace(np.nan, \"\")\n       .replace(\"^Unnamed.*\", \"\", regex = True)\n       .replace(r\"Star Wars: (Episode \\w{1,3}) .*\", r\"\\1\", regex = True)\n)\n\ndf_starwars.iloc[3:9, 0] = \"seen_\"\ndf_starwars.iloc[9:15, 0] = \"rank_\"\ndf_starwars.iloc[15:29, 0] = \"fav_\"\n\ndf_starwars['newnames'] = df_starwars['variable'] + df_starwars['value']\ndf_starwars\ndf_other.columns = df_starwars['newnames']",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html#questiontask-2",
+    "href": "Cleansing_Projects/project5.html#questiontask-2",
+    "title": "Client Report - [The War With Star Wars]",
+    "section": "QUESTION|TASK 2",
+    "text": "QUESTION|TASK 2\nClean and format the data so that it can be used in a machine learning model. As you format the data, you should complete each item listed below. In your final report provide example(s) of the reformatted data with a short description of the changes made.\na. Filter the dataset to respondents that have seen at least one film\nb. Create a new column that converts the age ranges to a single number. Drop the age range categorical column\nc. Create a new column that converts the education groupings to a single number. Drop the school categorical column\nd. Create a new column that converts the income ranges to a single number. Drop the income range categorical column\ne. Create your target (also known as “y” or “label”) column based on the new income range column\nf. One-hot encode all remaining categorical columns\nData was simplified for machine learning use. In order to simplify groups certain values were changed. One-Hot encoding was used to change categorical for machine learning. For the different age ranges and incomes the average was taken from each range and assigned to each grouping. For education, numbers were assigned in ascending order according to level of education, also ascending. Finally a column was made to track households with income of $50k or more.\n\n\nShow the code\n#a\n\ndf_other.loc[(df_other['seen_Episode I'].str.len())&gt;0,'seen_Episode I']=1\ndf_other.loc[(df_other['seen_Episode II'].str.len())&gt;0,'seen_Episode II']=1\ndf_other.loc[(df_other['seen_Episode III'].str.len())&gt;0,'seen_Episode III']=1\ndf_other.loc[(df_other['seen_Episode IV'].str.len())&gt;0,'seen_Episode IV']=1\ndf_other.loc[(df_other['seen_Episode V'].str.len())&gt;0,'seen_Episode V']=1\ndf_other.loc[(df_other['seen_Episode VI'].str.len())&gt;0,'seen_Episode VI']=1\n\ndf_other[[\"seen_Episode I\", \"seen_Episode II\", \"seen_Episode III\", \"seen_Episode IV\", \"seen_Episode V\", \"seen_Episode VI\"]] = df_other[[\"seen_Episode I\", \"seen_Episode II\", \"seen_Episode III\", \"seen_Episode IV\", \"seen_Episode V\", \"seen_Episode VI\"]].replace(np.nan, 0)\n\ndf_other.loc[df_other['seen_Episode I']+df_other['seen_Episode II']+df_other['seen_Episode III']+df_other['seen_Episode IV']+df_other['seen_Episode V']+df_other['seen_Episode VI'] == 0,'Have you seen any of the 6 films in the Star Wars franchise?'] = 'No'\n\ndf_other.loc[df_other['seen_Episode I']+df_other['seen_Episode II']+df_other['seen_Episode III']+df_other['seen_Episode IV']+df_other['seen_Episode V']+df_other['seen_Episode VI'] != 0,'Have you seen any of the 6 films in the Star Wars franchise?'] = 'Yes'\n\n\n\n#another approach\n#roman_numerals = ['I','II','VI']\n#for num in roman_numerals:\n#     column_name = f'seen_Episode {num}'\n#     df_...[column_name]=df...[column_name].apply(lambda x: 1 if pd.notna\n#     (x) else x).fillna(0)\n#\n\n\n\n#df....replace(r'Star Wars:.*','1',regex = True,inplace = True)\n#df...filter(regex = '^seen').fillna(0).astype('int')\n\n\n\n\nShow the code\n#b ages\nage_dict = {\n        '18-29' : 24,\n        '30-44' : 37,\n        '&gt; 60'  : 60,\n        '45-60' : 53,     \n}\n\ndf_other['Age'] = df_other['Age'].map(age_dict)\n\n\n\n\nShow the code\n#c education\neduc_dict = {\n          'Less than high school degree' : 1,\n          'High school degree' : 2,\n          'Some college or Associate degree' : 3,\n          'Bachelor degree' : 4,\n          'Graduate degree' : 5\n\n}\ndf_other['Education'] = df_other[\"Education\"].map(educ_dict)\n\n\n\n\nShow the code\n#d income\nincome_dict = {\n      '$0 - $24,999' : 12500,\n      '$25,000 - $49,999' : 37500,\n      '$50,000 - $99,999' : 74500,\n      '$100,000 - $149,999' : 125000,\n      '$150,000+' : 150000\n      \n}\n\ndf_other['Household Income'] = df_other['Household Income'].map(income_dict)\n\n\n\n\nShow the code\n#e\n\n\ndf_other['Target'] = 0\n\ndf_other.loc[df_other['Household Income'] &gt; 50000, 'Target'] = 1\n\ncolumns_to_drop = [col for col in df_other.columns if col == 1]\ndf_other = df_other.drop(columns=columns_to_drop)\n\n\n\n\nShow the code\n#f get_dummies\ndf_other = pd.get_dummies(\n    df_other,\n    columns=[\n        'Have you seen any of the 6 films in the Star Wars franchise?',\n        'Do you consider yourself to be a fan of the Star Wars film franchise?',\n        'fav_Han Solo',\n        'fav_Luke Skywalker',\n        'fav_Princess Leia Organa',\n        'fav_Anakin Skywalker',\n        'fav_Obi Wan Kenobi',\n        'fav_Emperor Palpatine',\n        'fav_Darth Vader',\n        'fav_Lando Calrissian',\n        'fav_Boba Fett',\n        'fav_C-3P0',\n        'fav_R2 D2',\n        'fav_Jar Jar Binks',\n        'fav_Padme Amidala',\n        'fav_Yoda',\n        'Which character shot first?',\n        'Are you familiar with the Expanded Universe?',\n        'Do you consider yourself to be a fan of the Expanded Universe?',\n        'Do you consider yourself to be a fan of the Star Trek franchise?',\n        'Gender',\n        'Location (Census Region)'\n    ]\n)",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html#questiontask-3",
+    "href": "Cleansing_Projects/project5.html#questiontask-3",
+    "title": "Client Report - [The War With Star Wars]",
+    "section": "QUESTION|TASK 3",
+    "text": "QUESTION|TASK 3\nValidate that the data provided on GitHub lines up with the article by recreating 2 of the visuals from the article.\nThe tricky part was making the percentages and then double checking the articles. I had to change the parameters to only include the quanitity listed in the articles.\n\n\nShow the code\nfrom lets_plot import *\nimport matplotlib.pyplot as plt\n\nepisodes_columns = ['seen_Episode I', 'seen_Episode II', 'seen_Episode III', 'seen_Episode IV', 'seen_Episode V', 'seen_Episode VI']\n\n\nseen_any = df_other[episodes_columns].sum(axis=1) &gt; 0\ndf_filtered = df_other[seen_any].iloc[:835] \n\npercentages = {}\ntotal_respondents = len(df_filtered)\n\nfor col in episodes_columns:\n    seen_count = df_filtered[col].sum()\n    percentages[col] = (seen_count / total_respondents) * 100\n\n\nepisodes = [col.replace('seen_', '') for col in episodes_columns]\npercent_values = [percentages[col] for col in episodes_columns]\n\n\nplt.figure(figsize=(10, 6))\nplt.barh(episodes, percent_values, color='steelblue')\nplt.xlabel('Percentage (%)')\nplt.ylabel('Episode')\nplt.title('Percentage of Respondents Who Have Seen Each Star Wars Episode\\nBased on first 835 respondents who have seen any film')\nplt.tight_layout()\nplt.show()\n\n\n\n\n\n\n\n\n\n\n\nShow the code\n# Include and execute your code here\nimport matplotlib.pyplot as plt\n\nranking_columns = ['rank_Episode I', 'rank_Episode II', 'rank_Episode III', \n                  'rank_Episode IV', 'rank_Episode V', 'rank_Episode VI']\nepisodes_columns = ['seen_Episode I', 'seen_Episode II', 'seen_Episode III', \n                   'seen_Episode IV', 'seen_Episode V', 'seen_Episode VI']\n\nseen_all = (df_other[episodes_columns] == 1).all(axis=1)\ndf_filtered = df_other[seen_all].iloc[:471]\n\npercentages = {}\ntotal_respondents = len(df_filtered)\n\nfor col in ranking_columns:\n    rank_one_count = (df_filtered[col] == 1).sum()\n    percentages[col] = (rank_one_count / total_respondents) * 100\n\nepisodes = [col.replace('rank_', '') for col in ranking_columns]\npercent_values = [percentages[col] for col in ranking_columns]\n\nepisode_order = ['Episode VI', 'Episode V', 'Episode IV', 'Episode III', 'Episode II', 'Episode I']\n\nordered_data = []\nfor ep in episode_order:\n    idx = episodes.index(ep)\n    ordered_data.append((ep, percent_values[idx]))\n\nordered_episodes, ordered_percentages = zip(*ordered_data)\n\nplt.figure(figsize=(10, 6))\nbars = plt.barh(ordered_episodes, ordered_percentages, color='steelblue')\n\nfor i, bar in enumerate(bars):\n    plt.text(bar.get_width() + 0.5, bar.get_y() + bar.get_height()/2, \n             f\"{ordered_percentages[i]:.1f}%\", \n             va='center')\n\nplt.xlabel('Percentage (%)')\nplt.ylabel('')\nplt.title('Percentage of People Who Ranked Each Star Wars Episode as #1\\nBased on first 471 respondents who have seen all films')\nplt.xlim(0, max(ordered_percentages) * 1.15)\nplt.tight_layout()\nplt.show()",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html#questiontask-4",
+    "href": "Cleansing_Projects/project5.html#questiontask-4",
+    "title": "Client Report - [The War With Star Wars]",
+    "section": "QUESTION|TASK 4",
+    "text": "QUESTION|TASK 4\nBuild a machine learning model that predicts whether a person makes more than $50k. Describe your model and report the accuracy.\nThese machine learning model to predict whether a participant’s household income is more than $50k is not perfect, with an accuracy/F1 scores around 0.63. I’m not sure if more columns should be dropped or not.\n\n\nShow the code\n# Include and execute your code here\nfrom sklearn.model_selection import train_test_split, cross_val_score\nfrom sklearn.metrics import accuracy_score, classification_report\nfrom sklearn.tree import DecisionTreeClassifier\nfrom sklearn.ensemble import RandomForestClassifier\nfrom sklearn.preprocessing import StandardScaler\nfrom sklearn.linear_model import LogisticRegression\n\n\ndf_clean = df_other.dropna()\n\n\n\nnumeric_cols = df_other.select_dtypes(include=['int64', 'float64']).columns\ndf_imputed = df_other.copy()\n\nfor col in numeric_cols:\n    df_imputed[col] = df_imputed[col].fillna(df_imputed[col].median())\n\n\ncategorical_cols = df_other.select_dtypes(include=['object']).columns\nfor col in categorical_cols:\n    df_imputed[col] = df_imputed[col].fillna(df_imputed[col].mode()[0])\n\n\ndf_ml = df_imputed \n\n\nfeatures = df_ml.drop(columns=['Target', 'Household Income','RespondentID'])\n\n\nX = features\ny = df_ml['Target']\n\n\n\n\nX_train, X_test, y_train, y_test = train_test_split(\n    X, y, test_size=0.25, random_state=42, stratify=y)\n\n\nnumeric_cols = X_train.select_dtypes(include=['int64', 'float64']).columns\nscaler = StandardScaler()\nX_train[numeric_cols] = scaler.fit_transform(X_train[numeric_cols])\nX_test[numeric_cols] = scaler.transform(X_test[numeric_cols])\n\n\nrf_model = RandomForestClassifier(\n    n_estimators=400, \n    max_depth=10,\n    min_samples_split=5,\n    class_weight='balanced',\n    criterion='gini',\n    random_state=42\n)\nrf_model.fit(X_train, y_train)\n\n\ny_pred_rf = rf_model.predict(X_test)\nprint(f\"\\nRandom Forest Test Accuracy: {accuracy_score(y_test, y_pred_rf):.4f}\")\nprint(\"\\nClassification Report (Random Forest):\")\nprint(classification_report(y_test, y_pred_rf))\n\n\nfeature_importance = pd.DataFrame({\n    'Feature': X.columns,\n    'Importance': rf_model.feature_importances_\n}).sort_values('Importance', ascending=False)\nprint(\"\\nTop 10 Most Important Features:\")\nprint(feature_importance.head(5))\n\n\nprint(\"\\nModel Description:\")\nprint(\"This Random Forest classifier was trained to predict whether a respondent's income exceeds $50,000.\")\nprint(f\"The model achieved an accuracy of {accuracy_score(y_test, y_pred_rf):.4f} on the test set.\")\n\n\n\nRandom Forest Test Accuracy: 0.6263\n\nClassification Report (Random Forest):\n              precision    recall  f1-score   support\n\n           0       0.68      0.60      0.64       163\n           1       0.58      0.66      0.61       134\n\n    accuracy                           0.63       297\n   macro avg       0.63      0.63      0.63       297\nweighted avg       0.63      0.63      0.63       297\n\n\nTop 10 Most Important Features:\n                                               Feature  Importance\n13                                           Education    0.055685\n12                                                 Age    0.055055\n109  Do you consider yourself to be a fan of the St...    0.038861\n111                                      Gender_Female    0.034775\n9                                      rank_Episode IV    0.031180\n\nModel Description:\nThis Random Forest classifier was trained to predict whether a respondent's income exceeds $50,000.\nThe model achieved an accuracy of 0.6263 on the test set.",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html#stretch-questiontask-1",
+    "href": "Cleansing_Projects/project5.html#stretch-questiontask-1",
+    "title": "Client Report - [The War With Star Wars]",
+    "section": "STRETCH QUESTION|TASK 1",
+    "text": "STRETCH QUESTION|TASK 1\nBuild a machine learning model that predicts whether a person makes more than $50k. With accuracy of at least 65%. Describe your model and report the accuracy.\nIn my attemps to improve the model i tried to drop the participants who hadn’t seen any movie. This dropped the accuracy scores significantly. from 0.63 to 0.56. I’m not sure what I could do to improve the model at this point.\n\n\nShow the code\n# Include and execute your code here\nfrom sklearn.model_selection import train_test_split, cross_val_score\nfrom sklearn.metrics import accuracy_score, classification_report\nfrom sklearn.tree import DecisionTreeClassifier\nfrom sklearn.ensemble import RandomForestClassifier\nfrom sklearn.preprocessing import StandardScaler\nfrom sklearn.linear_model import LogisticRegression\n\nepisodes_columns = ['seen_Episode I', 'seen_Episode II', 'seen_Episode III', \n                   'seen_Episode IV', 'seen_Episode V', 'seen_Episode VI']\n\nseen_all = (df_other[episodes_columns] == 1).all(axis=1)\ndf_filtered = df_other[seen_all]\n\nnumeric_cols = df_filtered.select_dtypes(include=['int64', 'float64']).columns\ndf_imputed = df_filtered.copy()\n\nfor col in numeric_cols:\n    df_imputed[col] = df_imputed[col].fillna(df_imputed[col].median())\n\ncategorical_cols = df_filtered.select_dtypes(include=['object']).columns\nfor col in categorical_cols:\n    df_imputed[col] = df_imputed[col].fillna(df_imputed[col].mode()[0])\n\ndf_ml = df_imputed\n\nfeatures = df_ml.drop(columns=['Target', 'Household Income', 'RespondentID'])\n\nX = features\ny = df_ml['Target']\n\nX_train, X_test, y_train, y_test = train_test_split(\n    X, y, test_size=0.25, random_state=42, stratify=y)\n\nnumeric_cols = X_train.select_dtypes(include=['int64', 'float64']).columns\nscaler = StandardScaler()\nX_train[numeric_cols] = scaler.fit_transform(X_train[numeric_cols])\nX_test[numeric_cols] = scaler.transform(X_test[numeric_cols])\n\nrf_model = RandomForestClassifier(\n    n_estimators=400,\n    max_depth=10,\n    min_samples_split=5,\n    class_weight='balanced',\n    criterion='gini',\n    random_state=42\n)\nrf_model.fit(X_train, y_train)\n\ny_pred_rf = rf_model.predict(X_test)\nprint(f\"\\nRandom Forest Test Accuracy: {accuracy_score(y_test, y_pred_rf):.4f}\")\nprint(\"\\nClassification Report (Random Forest):\")\nprint(classification_report(y_test, y_pred_rf))\n\nfeature_importance = pd.DataFrame({\n    'Feature': X.columns,\n    'Importance': rf_model.feature_importances_\n}).sort_values('Importance', ascending=False)\nprint(\"\\nTop 10 Most Important Features:\")\nprint(feature_importance.head(5))\n\nprint(\"\\nModel Description:\")\nprint(\"This Random Forest classifier was trained to predict whether a respondent's income exceeds $50,000.\")\nprint(f\"The model achieved an accuracy of {accuracy_score(y_test, y_pred_rf):.4f} on the test set.\")\nprint(\"This model was trained using only respondents who have seen all six Star Wars films.\")\n\n\n\nRandom Forest Test Accuracy: 0.5593\n\nClassification Report (Random Forest):\n              precision    recall  f1-score   support\n\n           0       0.55      0.53      0.54        57\n           1       0.57      0.59      0.58        61\n\n    accuracy                           0.56       118\n   macro avg       0.56      0.56      0.56       118\nweighted avg       0.56      0.56      0.56       118\n\n\nTop 10 Most Important Features:\n            Feature  Importance\n13        Education    0.038187\n12              Age    0.036512\n7   rank_Episode II    0.034204\n9   rank_Episode IV    0.034014\n11  rank_Episode VI    0.033807\n\nModel Description:\nThis Random Forest classifier was trained to predict whether a respondent's income exceeds $50,000.\nThe model achieved an accuracy of 0.5593 on the test set.\nThis model was trained using only respondents who have seen all six Star Wars films.",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html#stretch-questiontask-2",
+    "href": "Cleansing_Projects/project5.html#stretch-questiontask-2",
+    "title": "Client Report - [The War With Star Wars]",
+    "section": "STRETCH QUESTION|TASK 2",
+    "text": "STRETCH QUESTION|TASK 2\nValidate the data provided on GitHub lines up with the article by recreating a 3rd visual from the article.\ntype your results and analysis here\n\n\nShow the code\n# Include and execute your code here",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html#stretch-questiontask-3",
+    "href": "Cleansing_Projects/project5.html#stretch-questiontask-3",
+    "title": "Client Report - [The War With Star Wars]",
+    "section": "STRETCH QUESTION|TASK 3",
+    "text": "STRETCH QUESTION|TASK 3\nCreate a new column that converts the location groupings to a single number. Drop the location categorical column.\ntype your results and analysis here\n\n\nShow the code\n# Include and execute your code here",
+    "crumbs": [
+      "Data Cleansing",
       "Project 5"
     ]
   }
