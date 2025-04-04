@@ -1,108 +1,13 @@
 [
   {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project4.html",
-    "href": "Story_Telling/project4.html",
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Story Telling",
+      "Machine Learning",
       "Project 4"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "Machine_Learning/project5.html",
-    "href": "Machine_Learning/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 5"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
     ]
   },
   {
@@ -117,45 +22,14 @@
     ]
   },
   {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project4.html",
-    "href": "Full_Stack/project4.html",
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 2"
+      "Machine Learning",
+      "Project 3"
     ]
   },
   {
@@ -179,6 +53,50 @@
     ]
   },
   {
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 2"
+    ]
+  },
+  {
     "objectID": "Competition/project5.html",
     "href": "Competition/project5.html",
     "title": "Client Report - [Insert Project Title]",
@@ -187,28 +105,6 @@
     "crumbs": [
       "Competition",
       "Project 5"
-    ]
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competition",
-      "Project 1"
     ]
   },
   {
@@ -223,15 +119,33 @@
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Data Cleansing",
-      "Project 2"
+      "Project 1"
     ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Finding Relationships in Baseball]",
+    "section": "",
+    "text": "Back to top"
   },
   {
     "objectID": "Cleansing_Exploration/project5.html",
@@ -295,6 +209,155 @@
     "title": "Client Report - [The War With Star Wars]",
     "section": "STRETCH QUESTION|TASK 3",
     "text": "STRETCH QUESTION|TASK 3\nCreate a new column that converts the location groupings to a single number. Drop the location categorical column.\ntype your results and analysis here\n\n\nShow the code\n# Include and execute your code here"
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
   },
   {
     "objectID": "Cleansing_Exploration/project3.html",
@@ -402,33 +465,6 @@
     "text": "STRETCH QUESTION|TASK 1\nReproduce the chart Elliot using the data from the names_year.csv file.\ntype your results and analysis here\n\n\nShow the code\n# Include and execute your code here\n\nElliot_data = df.query('name ==\"Elliot\"')\n\n(ggplot(data= Elliot_data,\n    mapping = aes(x='year',y='Total',color='name'))+\n    geom_line()+  # Remove the fixed color here to let the aesthetic work\n    geom_vline(xintercept = 1982,color='red',linetype = 'dashed')+\n    geom_vline(xintercept = 2002,color='red',linetype = 'dashed')+\n    geom_vline(xintercept = 1985,color='red',linetype = 'dashed')+\n    geom_text(x=1972,y=1200,label = \"First Release\",color='black')+\n    geom_text(x=1995,y=1200,label = \"Second Release\",color='black')+\n    geom_text(x=2012,y=1200,label = \"Third Release\",color='black')+\n    scale_x_continuous(format='d')+\n    xlim(1950,2025)+\n    labs(\n      title = 'Elliot... What?',\n      x='Year',\n      y='Total',\n      color= 'Name'\n    ) +\n    theme(legend_position = 'right')+\n    scale_color_manual(values=['#800080'])\n)"
   },
   {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
-    "title": "Client Report - [Finding Relationships in Baseball]",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
     "objectID": "Cleansing_Exploration/project4.html",
     "href": "Cleansing_Exploration/project4.html",
     "title": "Client Report - [Can You Predict That?]",
@@ -454,21 +490,21 @@
     "href": "Cleansing_Exploration/project4.html#questiontask-2",
     "title": "Client Report - [Can You Predict That?]",
     "section": "QUESTION|TASK 2",
-    "text": "QUESTION|TASK 2\nBuild a classification model labeling houses as being built “before 1980” or “during or after 1980”. Your goal is to reach or exceed 90% accuracy. Explain your final model choice (algorithm, tuning parameters, etc) and describe what other models you tried.\nThe first issue that was needed was to drop some columns that did not aid in the discussion of asbestos problems. Columns ‘parcel’ or ‘abstrprd’ did not appear to have any meaningful value. We test and train the model based on ‘before 1980’.\n\n\nShow the code\n# Include and execute your code here\n\nX = df4.drop(columns=['parcel','abstrprd','yrbuilt','before1980'])  \ny = df4['before1980'] \n\nX_train, X_test, Y_train, Y_test = train_test_split(\n    X, y, test_size=0.2, random_state=42)\n\nprint(X_train.shape, Y_train.shape)\nprint(X_test.shape, Y_test.shape)\n\n\n(18330, 47) (18330,)\n(4583, 47) (4583,)\n\n\n\n\nShow the code\ntest = RandomForestClassifier(n_estimators=400,criterion = 'gini')\ntest.fit(X_train, Y_train) \n\nprediction = test.predict(X_test)\nfrom sklearn.metrics import classification_report\n\nprint(classification_report(Y_test, prediction))\n\n\n              precision    recall  f1-score   support\n\n           0       0.91      0.90      0.90      1710\n           1       0.94      0.95      0.94      2873\n\n    accuracy                           0.93      4583\n   macro avg       0.92      0.92      0.92      4583\nweighted avg       0.93      0.93      0.93      4583"
+    "text": "QUESTION|TASK 2\nBuild a classification model labeling houses as being built “before 1980” or “during or after 1980”. Your goal is to reach or exceed 90% accuracy. Explain your final model choice (algorithm, tuning parameters, etc) and describe what other models you tried.\nThe first issue that was needed was to drop some columns that did not aid in the discussion of asbestos problems. Columns ‘parcel’ or ‘abstrprd’ did not appear to have any meaningful value. We test and train the model based on ‘before 1980’.\n\n\nShow the code\n# Include and execute your code here\n\nX = df4.drop(columns=['parcel','abstrprd','yrbuilt','before1980'])  \ny = df4['before1980'] \n\nX_train, X_test, Y_train, Y_test = train_test_split(\n    X, y, test_size=0.2, random_state=42)\n\nprint(X_train.shape, Y_train.shape)\nprint(X_test.shape, Y_test.shape)\n\n\n(18330, 47) (18330,)\n(4583, 47) (4583,)\n\n\n\n\nShow the code\ntest = RandomForestClassifier(n_estimators=400,criterion = 'gini')\ntest.fit(X_train, Y_train) \n\nprediction = test.predict(X_test)\nfrom sklearn.metrics import classification_report\n\nprint(classification_report(Y_test, prediction))\n\n\n              precision    recall  f1-score   support\n\n           0       0.91      0.90      0.90      1710\n           1       0.94      0.95      0.94      2873\n\n    accuracy                           0.93      4583\n   macro avg       0.93      0.92      0.92      4583\nweighted avg       0.93      0.93      0.93      4583"
   },
   {
     "objectID": "Cleansing_Exploration/project4.html#questiontask-3",
     "href": "Cleansing_Exploration/project4.html#questiontask-3",
     "title": "Client Report - [Can You Predict That?]",
     "section": "QUESTION|TASK 3",
-    "text": "QUESTION|TASK 3\nJustify your classification model by discussing the most important features selected by your model. This discussion should include a feature importance chart and a description of the features.\nThis data show the importance to the learning model for predicting the year that the homes were built. Displayed are the most important features of the home. Livearea, arechetecture style, bathrooms, stories are very important in this determination. This was able to be determined in the model.\n\n\nShow the code\n# Include and execute your code here\ntest_importances = test.feature_importances_\nimportance_df = pd.DataFrame({\n    'Feature': X_train.columns,\n    'Importance': test_importances\n}).sort_values(by='Importance', ascending=False)\nimportance_df\n\ntop_5_features = importance_df.head(5)\n\nprint(top_5_features.head())\nplt.figure(figsize=(8, 5))\nplt.bar(top_5_features['Feature'], top_5_features['Importance'])\nplt.xticks(rotation=45, ha='right')\nplt.title('Top 5 Feature Importance')\nplt.tight_layout()\nplt.show()\n\n\n               Feature  Importance\n0             livearea    0.089498\n36  arcstyle_ONE-STORY    0.083526\n4              stories    0.072085\n7             numbaths    0.068584\n11                tasp    0.060809"
+    "text": "QUESTION|TASK 3\nJustify your classification model by discussing the most important features selected by your model. This discussion should include a feature importance chart and a description of the features.\nThis data show the importance to the learning model for predicting the year that the homes were built. Displayed are the most important features of the home. Livearea, arechetecture style, bathrooms, stories are very important in this determination. This was able to be determined in the model.\n\n\nShow the code\n# Include and execute your code here\ntest_importances = test.feature_importances_\nimportance_df = pd.DataFrame({\n    'Feature': X_train.columns,\n    'Importance': test_importances\n}).sort_values(by='Importance', ascending=False)\nimportance_df\n\ntop_5_features = importance_df.head(5)\n\nprint(top_5_features.head())\nplt.figure(figsize=(8, 5))\nplt.bar(top_5_features['Feature'], top_5_features['Importance'])\nplt.xticks(rotation=45, ha='right')\nplt.title('Top 5 Feature Importance')\nplt.tight_layout()\nplt.show()\n\n\n               Feature  Importance\n0             livearea    0.090443\n36  arcstyle_ONE-STORY    0.084976\n4              stories    0.069641\n7             numbaths    0.066466\n11                tasp    0.061167"
   },
   {
     "objectID": "Cleansing_Exploration/project4.html#questiontask-4",
     "href": "Cleansing_Exploration/project4.html#questiontask-4",
     "title": "Client Report - [Can You Predict That?]",
     "section": "QUESTION|TASK 4",
-    "text": "QUESTION|TASK 4\nDescribe the quality of your classification model using 2-3 different evaluation metrics. You also need to explain how to interpret each of the evaluation metrics you use.\nFrom the scores we see this model the precision, accuracy, and f1 are notable. Looing at the F1 score we see that the model has good precision and recall, meaning that this learning model can correctly identify homes built before 1980 to a high degree. Accuracy is the proporiton of correct predictions: this model can mostly predict correctly.\n\n\nShow the code\n# Include and execute your code here\nprediction = test.predict(X_test)\nfrom sklearn.metrics import classification_report\nprint('Classification report for RandomForest')\nprint(classification_report(Y_test, prediction))\n\n\nClassification report for RandomForest\n              precision    recall  f1-score   support\n\n           0       0.91      0.90      0.90      1710\n           1       0.94      0.95      0.94      2873\n\n    accuracy                           0.93      4583\n   macro avg       0.92      0.92      0.92      4583\nweighted avg       0.93      0.93      0.93      4583"
+    "text": "QUESTION|TASK 4\nDescribe the quality of your classification model using 2-3 different evaluation metrics. You also need to explain how to interpret each of the evaluation metrics you use.\nFrom the scores we see this model the precision, accuracy, and f1 are notable. Looing at the F1 score we see that the model has good precision and recall, meaning that this learning model can correctly identify homes built before 1980 to a high degree. Accuracy is the proporiton of correct predictions: this model can mostly predict correctly.\n\n\nShow the code\n# Include and execute your code here\nprediction = test.predict(X_test)\nfrom sklearn.metrics import classification_report\nprint('Classification report for RandomForest')\nprint(classification_report(Y_test, prediction))\n\n\nClassification report for RandomForest\n              precision    recall  f1-score   support\n\n           0       0.91      0.90      0.90      1710\n           1       0.94      0.95      0.94      2873\n\n    accuracy                           0.93      4583\n   macro avg       0.93      0.92      0.92      4583\nweighted avg       0.93      0.93      0.93      4583"
   },
   {
     "objectID": "Cleansing_Exploration/project4.html#stretch-questiontask-1",
@@ -482,7 +518,7 @@
     "href": "Cleansing_Exploration/project4.html#stretch-questiontask-2",
     "title": "Client Report - [Can You Predict That?]",
     "section": "STRETCH QUESTION|TASK 2",
-    "text": "STRETCH QUESTION|TASK 2\nJoin the dwellings_neighborhoods_ml.csv data to the dwelling_ml.csv on the parcel column to create a new dataset. Duplicate the code for the stretch question above and update it to use this data. Explain the differences and if this changes the model you recomend to the Client.\nLinear regression still wasn’t showing the conclusions we needed but for the classifiers RandomForest and DecisionTree we can see a high f1 score, higher than the previous test before combining the data bases. This show how machine learning is powerful with more data.\n\n\nShow the code\n# Include and execute your code here\n# Join the datasets on the parcel column\ncombined_df = pd.merge(df4, df4_maybe, on='parcel', how='inner')\n\n\nprint(f\"Original dwellings_ml shape: {df4.shape}\")\nprint(f\"Original neighborhoods_ml shape: {df4_maybe.shape}\")\nprint(f\"Combined dataset shape: {combined_df.shape}\")\n\n\n\nX_combined = combined_df.drop(columns=['parcel', 'abstrprd', 'yrbuilt', 'before1980'])\ny_combined = combined_df['before1980']\n\n\nX_train_c, X_test_c, y_train_c, y_test_c = train_test_split(\n    X_combined, y_combined, test_size=0.2, random_state=42)\n\nprint(f\"Training data shape: {X_train_c.shape}\")\nprint(f\"Testing data shape: {X_test_c.shape}\")\n\n\nrf_model = RandomForestClassifier(n_estimators=400, criterion='gini', random_state=42)\nrf_model.fit(X_train_c, y_train_c)\nrf_pred = rf_model.predict(X_test_c)\n\n\nlogreg_model = LogisticRegression(max_iter=1000, random_state=42)\nlogreg_model.fit(X_train_c, y_train_c)\nlogreg_pred = logreg_model.predict(X_test_c)\n\n\ndt_model = DecisionTreeClassifier(random_state=42)\ndt_model.fit(X_train_c, y_train_c)\ndt_pred = dt_model.predict(X_test_c)\n\n\nprint(\"Random Forest with combined data:\")\nprint(classification_report(y_test_c, rf_pred))\n\nprint(\"\\nLogistic Regression with combined data:\")\nprint(classification_report(y_test_c, logreg_pred))\n\nprint(\"\\nDecision Tree with combined data:\")\nprint(classification_report(y_test_c, dt_pred))\n\n\nOriginal dwellings_ml shape: (22913, 51)\nOriginal neighborhoods_ml shape: (22913, 274)\nCombined dataset shape: (27961, 324)\nTraining data shape: (22368, 320)\nTesting data shape: (5593, 320)\n\n\nRandom Forest with combined data:\n              precision    recall  f1-score   support\n\n           0       0.96      0.96      0.96      2138\n           1       0.97      0.98      0.97      3455\n\n    accuracy                           0.97      5593\n   macro avg       0.97      0.97      0.97      5593\nweighted avg       0.97      0.97      0.97      5593\n\n\nLogistic Regression with combined data:\n              precision    recall  f1-score   support\n\n           0       0.85      0.82      0.84      2138\n           1       0.89      0.91      0.90      3455\n\n    accuracy                           0.88      5593\n   macro avg       0.87      0.87      0.87      5593\nweighted avg       0.88      0.88      0.88      5593\n\n\nDecision Tree with combined data:\n              precision    recall  f1-score   support\n\n           0       0.95      0.95      0.95      2138\n           1       0.97      0.97      0.97      3455\n\n    accuracy                           0.96      5593\n   macro avg       0.96      0.96      0.96      5593\nweighted avg       0.96      0.96      0.96      5593"
+    "text": "STRETCH QUESTION|TASK 2\nJoin the dwellings_neighborhoods_ml.csv data to the dwelling_ml.csv on the parcel column to create a new dataset. Duplicate the code for the stretch question above and update it to use this data. Explain the differences and if this changes the model you recomend to the Client.\nLinear regression still wasn’t showing the conclusions we needed but for the classifiers RandomForest and DecisionTree we can see a high f1 score, higher than the previous test before combining the data bases. This show how machine learning is powerful with more data.\n\n\nShow the code\n# Include and execute your code here\n# Join the datasets on the parcel column\ncombined_df = pd.merge(df4, df4_maybe, on='parcel', how='inner')\n\n\nprint(f\"Original dwellings_ml shape: {df4.shape}\")\nprint(f\"Original neighborhoods_ml shape: {df4_maybe.shape}\")\nprint(f\"Combined dataset shape: {combined_df.shape}\")\n\n\n\nX_combined = combined_df.drop(columns=['parcel', 'abstrprd', 'yrbuilt', 'before1980'])\ny_combined = combined_df['before1980']\n\n\nX_train_c, X_test_c, y_train_c, y_test_c = train_test_split(\n    X_combined, y_combined, test_size=0.2, random_state=42)\n\nprint(f\"Training data shape: {X_train_c.shape}\")\nprint(f\"Testing data shape: {X_test_c.shape}\")\n\n\nrf_model = RandomForestClassifier(n_estimators=400, criterion='gini', random_state=42)\nrf_model.fit(X_train_c, y_train_c)\nrf_pred = rf_model.predict(X_test_c)\n\n\nlogreg_model = LogisticRegression(max_iter=1000, random_state=42)\nlogreg_model.fit(X_train_c, y_train_c)\nlogreg_pred = logreg_model.predict(X_test_c)\n\n\ndt_model = DecisionTreeClassifier(random_state=42)\ndt_model.fit(X_train_c, y_train_c)\ndt_pred = dt_model.predict(X_test_c)\n\n\nprint(\"Random Forest with combined data:\")\nprint(classification_report(y_test_c, rf_pred))\n\nprint(\"\\nLogistic Regression with combined data:\")\nprint(classification_report(y_test_c, logreg_pred))\n\nprint(\"\\nDecision Tree with combined data:\")\nprint(classification_report(y_test_c, dt_pred))\n\n\nOriginal dwellings_ml shape: (22913, 51)\nOriginal neighborhoods_ml shape: (22913, 274)\nCombined dataset shape: (27961, 324)\nTraining data shape: (22368, 320)\nTesting data shape: (5593, 320)\n\n\nRandom Forest with combined data:\n              precision    recall  f1-score   support\n\n           0       0.96      0.96      0.96      2138\n           1       0.97      0.98      0.97      3455\n\n    accuracy                           0.97      5593\n   macro avg       0.97      0.97      0.97      5593\nweighted avg       0.97      0.97      0.97      5593\n\n\nLogistic Regression with combined data:\n              precision    recall  f1-score   support\n\n           0       0.85      0.82      0.83      2138\n           1       0.89      0.91      0.90      3455\n\n    accuracy                           0.88      5593\n   macro avg       0.87      0.87      0.87      5593\nweighted avg       0.88      0.88      0.88      5593\n\n\nDecision Tree with combined data:\n              precision    recall  f1-score   support\n\n           0       0.95      0.95      0.95      2138\n           1       0.97      0.97      0.97      3455\n\n    accuracy                           0.96      5593\n   macro avg       0.96      0.96      0.96      5593\nweighted avg       0.96      0.96      0.96      5593"
   },
   {
     "objectID": "Cleansing_Exploration/project4.html#stretch-questiontask-3",
@@ -490,28 +526,6 @@
     "title": "Client Report - [Can You Predict That?]",
     "section": "STRETCH QUESTION|TASK 3",
     "text": "STRETCH QUESTION|TASK 3\nCan you build a model that predicts the year a house was built? Explain the model and the evaluation metrics you would use to determine if the model is good.\nI’m hoping this code makes sense.I found a linear regression model that could work for our purposes here. I’m hoping that setting the ‘yrbuilt’ column will test to parameterize the years, I’m hoping the model can pick up patterns. This code takes much longer to run. I’m skeptical if the model worked well because I have an Rsquared score of 1…which should not be possible. CORRECTION: I forgot to drop the yrbuilt column in the training. This model is only OKAY. It has a higher r2 score of 0.78 but we cannot give a solid confidence if being able to predict the year built can be based on this model.\n\n\nShow the code\nfrom sklearn.ensemble import RandomForestRegressor\nfrom sklearn.linear_model import LinearRegression\nfrom sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score\n\nX_reg = df4.drop(columns=['parcel', 'abstrprd','yrbuilt', 'before1980'])\ny_reg = df4['yrbuilt']\n\n\nX_train_reg, X_test_reg, y_train_reg, y_test_reg = train_test_split(\n    X_reg, y_reg, test_size=0.2, random_state=42)\n\n\nrf_reg = RandomForestRegressor(n_estimators=200, random_state=42)\nrf_reg.fit(X_train_reg, y_train_reg)\n\n\nrf_reg_pred = rf_reg.predict(X_test_reg)\n\n\nrf_mse = mean_squared_error(y_test_reg, rf_reg_pred)\nrf_rmse = np.sqrt(rf_mse)\nrf_mae = mean_absolute_error(y_test_reg, rf_reg_pred)\nrf_r2 = r2_score(y_test_reg, rf_reg_pred)\n\nprint(f\"Random Forest Regression Results:\")\nprint(f\"Mean Squared Error: {rf_mse:.2f}\")\nprint(f\"Root Mean Squared Error: {rf_rmse:.2f} years\")\nprint(f\"Mean Absolute Error: {rf_mae:.2f} years\")\nprint(f\"R² Score: {rf_r2:.4f}\")\n\n\nRandom Forest Regression Results:\nMean Squared Error: 288.90\nRoot Mean Squared Error: 17.00 years\nMean Absolute Error: 10.34 years\nR² Score: 0.7877\n\n\n\n\n\nShow the code\n#Predict number instead of category"
-  },
-  {
-    "objectID": "Cleansing_Projects/project1.html",
-    "href": "Cleansing_Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project3.html",
-    "href": "Cleansing_Projects/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
-      "Project 3"
-    ]
   },
   {
     "objectID": "Cleansing_Projects/project5.html",
@@ -525,14 +539,36 @@
     ]
   },
   {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Competition",
-      "Project 2"
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 1"
     ]
   },
   {
@@ -547,71 +583,99 @@
     ]
   },
   {
-    "objectID": "competition.html",
-    "href": "competition.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Competition"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Full Stack",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project3.html",
-    "href": "Full_Stack/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project5.html",
-    "href": "Full_Stack/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
+      "Story Telling",
       "Project 5"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 2"
+    ]
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+  },
+  {
+    "objectID": "resume.html#awards",
+    "href": "resume.html#awards",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+  },
+  {
+    "objectID": "resume.html#publications",
+    "href": "resume.html#publications",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+  },
+  {
+    "objectID": "resume.html#occupation",
+    "href": "resume.html#occupation",
+    "title": "Isaac Newtons’s CV",
+    "section": "",
+    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 5"
+    ]
   },
   {
     "objectID": "Machine_Learning/project2.html",
@@ -622,70 +686,6 @@
     "crumbs": [
       "Machine Learning",
       "Project 2"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project4.html",
-    "href": "Machine_Learning/project4.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 4"
-    ]
-  },
-  {
-    "objectID": "ml.html",
-    "href": "ml.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Machine Learning"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project5.html",
-    "href": "Story_Telling/project5.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 5"
     ]
   }
 ]
