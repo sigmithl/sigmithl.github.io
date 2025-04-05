@@ -1,86 +1,83 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Miguel Smith's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Student, Chemist, Guitarist, Foodie, Music Lover
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="smi18055@byui.edu">smi18055@byui.edu</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Surviving physics courses
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Analytical Chemistry
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Protein Mass Spectroscopy, Nanotechnology Instrumentation, Quantum Dots, finding obscure albums
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+Bachelor of Science, Chemistry
+Minor: Data Science
+Expected in 2026
+Brigham Young University Idaho, Rexburg, ID
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+GED 
+Clarke County High School
+Berryville, VA
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+Rotary Club of Clarke County, VA, Outstanding Student Award, `2018`
+Boy Scouts of America, Eagle Scout, `2016`
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+...buffering...buffering...grad school required...
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+...buffering...
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+...buffering...
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Jan 2025 – Present`
+Lecture Teaching Assistant
+• Teach students over ZOOM and assist a professor in CHEM101, Introduction to Chemistry.
+• Readily answer questions while students perform their tasks and assess and adjust student
+learning as needed.
+• Build a climate of trust and responsiveness to students and the professor.
+`April 2024– July 2024`
+Laboratory Stockroom Assistant
+• Stock, set up, and break down laboratory materials in preparation for various laboratory classes.
+• Refill chemicals and materials in each laboratory in the Chemistry Department; carefully dispose of
+heavy metal and organic chemical waste.
+• Perform triplicate standardizing titrations to test concentration in-stock solutions for different laboratory
+classes.
+`Sept 2023 – July 2024`
+Laboratory Teaching Assistant
+• Assist professor, teach laboratory skills and methods, and answer student questions during and outside class.
+• Prepare laboratory for experiments and coordinate instructional activities.
+• Teach students lab safety, clean up, and chemical disposal protocols.
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
