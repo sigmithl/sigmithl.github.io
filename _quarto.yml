@@ -172,7 +172,7 @@ website:
         - text: "Project 5"
           file: Competition/project5.qmd
         - text: "---"
-  
+
 format:  
   html:
     theme: #see this link to customize the theme with css (https://quarto.org/docs/output-formats/html-themes.html#dark-mode)

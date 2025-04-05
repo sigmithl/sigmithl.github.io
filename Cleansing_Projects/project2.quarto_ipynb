@@ -1,0 +1,367 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Client Report - [Finding Relationships in Baseball]\"\n",
+        "subtitle: \"Course DS 250\"\n",
+        "author: \"[MIGUEL SMITH]\"\n",
+        "format:\n",
+        "  html:\n",
+        "    self-contained: true\n",
+        "    page-layout: full\n",
+        "    title-block-banner: true\n",
+        "    toc: true\n",
+        "    toc-depth: 3\n",
+        "    toc-location: body\n",
+        "    number-sections: false\n",
+        "    html-math-method: katex\n",
+        "    code-fold: true\n",
+        "    code-summary: \"Show the code\"\n",
+        "    code-overflow: wrap\n",
+        "    code-copy: hover\n",
+        "    code-tools:\n",
+        "        source: false\n",
+        "        toggle: true\n",
+        "        caption: See code\n",
+        "execute: \n",
+        "  warning: false\n",
+        "    \n",
+        "---"
+      ],
+      "id": "e5c165ab"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import pandas as pd \n",
+        "import numpy as np\n",
+        "import sqlite3\n",
+        "from lets_plot import *\n",
+        "\n",
+        "LetsPlot.setup_html(isolated_frame=True)"
+      ],
+      "id": "b6928eb3",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "# Learn morea about Code Cells: https://quarto.org/docs/reference/cells/cells-jupyter.html\n",
+        "\n",
+        "# Include and execute your code here\n",
+        "sqlite_file = 'lahmansbaseballdb.sqlite'\n",
+        "# this file must be in the same location as your .qmd or .py file\n",
+        "con = sqlite3.connect(sqlite_file)"
+      ],
+      "id": "8ec5a052",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## QUESTION|TASK 1\n",
+        "\n",
+        "__Write an SQL query to create a new dataframe about baseball players who attended BYU-Idaho. The new table should contain five columns: playerID, schoolID, salary, and the yearID/teamID associated with each salary. Order the table by salary (highest to lowest) and print out the table in your report.__  \n"
+      ],
+      "id": "c0174561"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "# Include and execute your code here\n",
+        "q = \"\"\"SELECT p.playerID as 'Player',\n",
+        "            sc.schoolID as 'School',\n",
+        "            s.yearID as 'Year',\n",
+        "            s.salary AS 'Salary', \n",
+        "            s.teamID AS 'Team'\n",
+        "            \n",
+        "            \n",
+        "       FROM collegeplaying sc\n",
+        "       \n",
+        "       JOIN people p ON p.playerID = sc.playerID \n",
+        "       JOIN salaries s ON p.playerID = s.playerID\n",
+        "       \n",
+        "       WHERE sc.schoolID = 'idbyuid'\n",
+        "       GROUP BY p.playerID\n",
+        "       ORDER BY s.salary DESC\n",
+        "\n",
+        "    \"\"\"\n",
+        "results = pd.read_sql_query(q,con)\n",
+        "results"
+      ],
+      "id": "96139a90",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## QUESTION|TASK 2\n",
+        "\n",
+        "__This three-part question requires you to calculate batting average (number of hits divided by the number of at-bats)__  \n",
+        "    a. Write an SQL query that provides playerID, yearID, and batting average for players with at least 1 at bat that year. Sort the table from highest batting average to lowest, and then by playerid alphabetically. Show the top 5 results in your report.  \n",
+        "    b. Use the same query as above, but only include players with at least 10 at bats that year. Print the top 5 results.  \n",
+        "    c. Now calculate the batting average for players over their entire careers (all years combined). Only include players with at least 100 at bats, and print the top 5 results.  \n",
+        "\n",
+        "Upon writing these queries I have found that there is a significant difference in results when changing parameters of At Bats. It makes sense \n",
+        "to limit which players we take for these averages because we get more useable numbers instead of 'perfect' averages.\n"
+      ],
+      "id": "ed79d08f"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "# Include and execute your code here\n",
+        "q = \"\"\" SELECT playerID AS 'Player',\n",
+        "               yearID AS 'Year',\n",
+        "               AB AS 'At Bat',\n",
+        "               H AS 'Hits',\n",
+        "               CAST(H as FLOAT) / AB AS 'Batting Average'\n",
+        "\n",
+        "        FROM batting\n",
+        "        GROUP BY playerID\n",
+        "        HAVING AB >= 1 AND H>=1\n",
+        "        ORDER BY CAST(H as FLOAT) / AB DESC, playerID ASC\n",
+        "        LIMIT 5\n",
+        "        \n",
+        "\n",
+        "\n",
+        "\n",
+        "\"\"\"\n",
+        "results = pd.read_sql_query(q,con)\n",
+        "results"
+      ],
+      "id": "71850978",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "# Include and execute your code here\n",
+        "q = \"\"\" SELECT playerID AS 'Player',\n",
+        "               yearID AS 'Year',\n",
+        "               AB AS 'At Bat',\n",
+        "               H AS 'Hits',\n",
+        "               CAST(H as FLOAT) / AB AS 'Batting Average'\n",
+        "\n",
+        "        FROM batting\n",
+        "        GROUP BY playerID\n",
+        "        HAVING AB >= 10 AND H>=1\n",
+        "        ORDER BY CAST(H as FLOAT) / AB DESC, playerID \n",
+        "        LIMIT 5\n",
+        "        \n",
+        "\n",
+        "\n",
+        "\n",
+        "\"\"\"\n",
+        "results = pd.read_sql_query(q,con)\n",
+        "results"
+      ],
+      "id": "19442b31",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "# Include and execute your code here\n",
+        "q = \"\"\" SELECT \n",
+        "               playerID AS 'Player',\n",
+        "               SUM(AB) AS 'Career At-Bats',\n",
+        "               SUM(H) AS 'Career Hits',\n",
+        "               CAST(SUM(H) as FLOAT) / SUM(AB) AS 'Batting Average'\n",
+        "\n",
+        "        FROM batting \n",
+        "        GROUP BY playerID\n",
+        "        HAVING SUM(AB) > 100\n",
+        "        ORDER BY CAST(SUM(H) as FLOAT) / SUM(AB) DESC,  playerID ASC\n",
+        "        LIMIT 5\n",
+        "        \n",
+        "        \n",
+        "        \n",
+        "    \n",
+        "\n",
+        "\"\"\"\n",
+        "results = pd.read_sql_query(q,con)\n",
+        "results"
+      ],
+      "id": "a42cb4ef",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## QUESTION|TASK 3\n",
+        "\n",
+        "__Pick any two baseball teams and compare them using a metric of your choice (average salary, home runs, number of wins, etc). Write an SQL query to get the data you need, then make a graph using Lets-Plot to visualize the comparison. What do you learn?__\n",
+        "\n",
+        "I decided to gather data of Outs Pitched for two teams on polar opposites of the United States: The Boston Red Sox and \n",
+        "the Los Angeles Dodgers. I wanted to see the differences year to year. To my surprise, the data is similar. Note the years 1918, 1981, and 1994 where both have similar dips. This puts forth the question of what happened to the MLB in those years.\n"
+      ],
+      "id": "bd36fbb6"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "# Include and execute your code here\n",
+        "q =\"\"\" SELECT tf.franchName 'Team Name', \n",
+        "       t.yearID as 'Year',\n",
+        "       t.W AS 'Wins',\n",
+        "       t.G as 'Games',\n",
+        "       CAST(t.W as FLOAT) / t.G AS 'Win%',\n",
+        "       t.IPOuts as 'Outs Pitched'\n",
+        "    FROM teams t \n",
+        "    JOIN teamsfranchises tf on tf.franchID = t.franchID\n",
+        "    WHERE tf.franchName IN ('Los Angeles Dodgers', 'Boston Red Sox')\n",
+        "    ORDER BY t.yearID\n",
+        "\n",
+        " \n",
+        "\n",
+        "\n",
+        "\n",
+        "\"\"\"\n",
+        "results = pd.read_sql_query(q,con)\n",
+        "results\n",
+        "\n",
+        "\n",
+        "\n",
+        "plot = (ggplot(results)\n",
+        " + geom_line(aes(x='Year', y='Outs Pitched', color='Team Name'), size=1)\n",
+        " + geom_point(aes(x='Year', y='Outs Pitched', color='Team Name'), size=2)\n",
+        " + ggtitle('Red Sox vs Dodgers Performance Over Time')\n",
+        " + xlab('Year')\n",
+        " + ylab('Outs Pitched')\n",
+        " + theme_classic()+\n",
+        "    scale_x_continuous(format=\"d\")\n",
+        ")\n",
+        "\n",
+        "plot.show()\n"
+      ],
+      "id": "492593fb",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "\n",
+        "## STRETCH QUESTION|TASK 1\n",
+        "\n",
+        "__Advanced Salary Distribution by Position (with Case Statement):__  \n",
+        "\n",
+        "    * Write an SQL query that provides a summary table showing the average salary for players in each position (e.g., pitcher, catcher, outfielder) across all years. Include the following columns:\n",
+        "\n",
+        "        * position\n",
+        "        * average_salary\n",
+        "        * total_players\n",
+        "        * highest_salary  \n",
+        "\n",
+        "    * The highest_salary column should display the highest salary ever earned by a player in that position. If no player in that position has a recorded salary, display “N/A” for the highest salary.  \n",
+        "\n",
+        "    * Additionally, create a new column called salary_category using a case statement:  \n",
+        "\n",
+        "        * If the average salary is above $1 million, categorize it as “High Salary.”  \n",
+        "        * If the average salary is between $500,000 and $1 million, categorize it as “Medium Salary.”  \n",
+        "        * Otherwise, categorize it as “Low Salary.”  \n",
+        "\n",
+        "    * Order the table by average salary in descending order.\n",
+        "    * Print the top 10 rows of this summary table.  \n",
+        "\n",
+        "_type your results and analysis here_\n"
+      ],
+      "id": "e2adc75a"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "# Include and execute your code here\n"
+      ],
+      "id": "92cc0520",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "## STRETCH QUESTION|TASK 2\n",
+        "\n",
+        "__Advanced Career Longevity and Performance (with Subqueries):__\n",
+        "\n",
+        "    * Calculate the average career length (in years) for players who have played at least one game. Then, identify the top 10 players with the longest careers (based on the number of years they played). Include their:  \n",
+        "\n",
+        "        * playerID\n",
+        "        * first_name\n",
+        "        * last_name\n",
+        "        * career_length\n",
+        "\n",
+        "    * The career_length should be calculated as the difference between the maximum and minimum yearID for each player. \n",
+        "\n",
+        "MAX and MIN functions work very well in this context. Nick Altrock sounds like he had a lot of endurance.\n"
+      ],
+      "id": "6ff899d3"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "# Include and execute your code here\n",
+        "q = \"\"\"\n",
+        "SELECT p.playerID,\n",
+        "       p.nameFirst as 'first_name',\n",
+        "       p.nameLast as 'last_name',\n",
+        "       MAX(CAST(a.yearID as INTEGER)) - MIN(CAST(a.yearID as INTEGER)) AS 'career_length'\n",
+        "FROM people p\n",
+        "JOIN appearances a ON p.playerID = a.playerID\n",
+        "GROUP BY p.playerID\n",
+        "ORDER BY career_length DESC\n",
+        "LIMIT 10\n",
+        "\n",
+        "\"\"\"\n",
+        "results = pd.read_sql_query(q,con)\n",
+        "results"
+      ],
+      "id": "7e77e869",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n"
+      ],
+      "id": "f3cbfaef"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\migue\\AppData\\Local\\Programs\\Python\\Python313\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
